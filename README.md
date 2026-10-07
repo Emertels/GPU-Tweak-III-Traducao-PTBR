@@ -52,7 +52,7 @@ O pacote não inclui o instalador do GPU Tweak III. A tradução continua válid
 
 ## 📦 Download
 
-Baixe `Traducao-GPU-Tweak-III-PTBR-v1.0.0.zip` na seção [Releases](https://github.com/Emertels/GPU-Tweak-III-Traducao-PTBR/releases/latest). O ZIP contém somente `Iniciar-Traducao.bat` e o arquivo XML da tradução; este README fica na página do repositório. O instalador também está disponível como terceiro anexo do release.
+Baixe `Traducao-GPU-Tweak-III-PTBR-v1.0.0.zip` na seção [Releases](https://github.com/Emertels/GPU-Tweak-III-Traducao-PTBR/releases/latest). O ZIP contém somente `Iniciar-Traducao.bat` e o arquivo XML da tradução; este README fica na página do repositório.
 
 ## 🚀 Instalação pelo script
 
