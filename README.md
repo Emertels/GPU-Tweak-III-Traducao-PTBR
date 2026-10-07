@@ -42,7 +42,7 @@ O arquivo de idioma se chama `aseng.xml` para que o programa o carregue. O conte
 
 ## 🧩 Versão compatível do programa
 
-Esta atualização foi preparada usando o arquivo de idioma da versão estável **2.1.9.5**, publicada pela ASUS em 18/09/2026. Baixe o programa somente pela [página oficial de suporte da ASUS](https://www.asus.com/supportonly/gpu%20tweak%20iii/helpdesk_download/).
+Esta atualização foi preparada usando o arquivo de idioma da versão estável **2.1.9.5**, publicada pela ASUS em 18/09/2026. Baixe o programa pela [página oficial brasileira do ASUS GPU Tweak III](https://www.asus.com/campaign/GPU-Tweak-III/br/index.php#download).
 
 O pacote não inclui o instalador do GPU Tweak III. A tradução continua válida para os textos e IDs já incluídos. Uma atualização do aplicativo pode reinstalar o arquivo inglês; basta executar o script novamente. A ASUS também pode adicionar novas chaves em versões futuras: isso não altera as chaves traduzidas existentes, mas textos novos podem aparecer em inglês até serem incluídos numa revisão da tradução.
 
