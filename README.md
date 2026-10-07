@@ -5,22 +5,6 @@
 
 Tradução PT-BR do **ASUS GPU Tweak III**, atualizada a partir do arquivo de localização mantido por **Emerson Teles**. O pacote inclui instalação por script, restauração do arquivo inglês e instalação manual.
 
-## 📸 Destaque da tradução
-
-<p align="center">
-  <img src="https://github.com/Emertels/GPU-Tweak-III-Traducao-PTBR/releases/download/v1.0.0/gpu-tweak-iii-pt-br-interface.png" alt="Tela principal do ASUS GPU Tweak III traduzida para português brasileiro" width="100%">
-</p>
-
-<p align="center"><em>Interface principal em PT-BR. Esta captura foi feita no GPU Tweak III v2.1.4.0.</em></p>
-
-### Mais telas traduzidas
-
-<p align="center">
-  <img src="https://github.com/Emertels/GPU-Tweak-III-Traducao-PTBR/releases/download/v1.0.0/gpu-tweak-iii-pt-br-destaque.jpg" alt="Configurações, monitoramento, atalhos e informações da GPU em português brasileiro" width="100%">
-</p>
-
----
-
 ## 📋 Índice
 
 1. [Sobre a tradução](#-sobre-a-tradução)
