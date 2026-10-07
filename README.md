@@ -1,6 +1,6 @@
-# 🎮 ASUS GPU Tweak III — Tradução para Português do Brasil (PT-BR) 🇧🇷
+﻿# 🎮 ASUS GPU Tweak III — Tradução para Português do Brasil (PT-BR) 🇧🇷
 
-![Versão](https://img.shields.io/badge/Tradução-v1.0.0-blue?style=for-the-badge)
+![Versão](https://img.shields.io/badge/Tradução-v1.0.1-blue?style=for-the-badge)
 ![Idioma](https://img.shields.io/badge/Idioma-Português%20(Brasil)-green?style=for-the-badge)
 
 Tradução PT-BR do **ASUS GPU Tweak III**, atualizada a partir do arquivo de localização mantido por **Emerson Teles**. O pacote inclui instalação por script, restauração do arquivo inglês e instalação manual.
@@ -8,7 +8,7 @@ Tradução PT-BR do **ASUS GPU Tweak III**, atualizada a partir do arquivo de lo
 ## 📸 Destaque da tradução
 
 <p align="center">
-  <img src="assets/gpu-tweak-iii-pt-br-interface.png" alt="Tela principal do ASUS GPU Tweak III traduzida para português brasileiro" width="100%">
+  <img src="https://github.com/Emertels/GPU-Tweak-III-Traducao-PTBR/releases/download/v1.0.1/gpu-tweak-iii-pt-br-interface.png" alt="Tela principal do ASUS GPU Tweak III traduzida para português brasileiro" width="100%">
 </p>
 
 <p align="center"><em>Interface principal em PT-BR. Esta captura foi feita no GPU Tweak III v2.1.4.0.</em></p>
@@ -16,7 +16,7 @@ Tradução PT-BR do **ASUS GPU Tweak III**, atualizada a partir do arquivo de lo
 ### Mais telas traduzidas
 
 <p align="center">
-  <img src="assets/gpu-tweak-iii-pt-br-destaque.jpg" alt="Configurações, monitoramento, atalhos e informações da GPU em português brasileiro" width="100%">
+  <img src="https://github.com/Emertels/GPU-Tweak-III-Traducao-PTBR/releases/download/v1.0.1/gpu-tweak-iii-pt-br-destaque.jpg" alt="Configurações, monitoramento, atalhos e informações da GPU em português brasileiro" width="100%">
 </p>
 
 ---
@@ -48,19 +48,19 @@ O pacote não inclui o instalador do GPU Tweak III. A tradução continua válid
 
 ## 📦 Download
 
-Baixe `GPU-Tweak-III-Traducao-PTBR-v1.0.0.zip` na seção [Releases](https://github.com/Emertels/GPU-Tweak-III-Traducao-PTBR/releases/latest). O ZIP inclui `aseng.xml`, o iniciador sem janela de CMD, o script gráfico e este guia.
+Baixe `GPU-Tweak-III-Traducao-PTBR-v1.0.1.zip` na seção [Releases](https://github.com/Emertels/GPU-Tweak-III-Traducao-PTBR/releases/latest). O ZIP contém somente `aseng.xml` e `Iniciar-Traducao.bat`; este README fica na página do repositório.
 
 ## 🚀 Instalação pelo script
 
-1. Extraia todos os arquivos do ZIP para uma pasta de sua preferência e mantenha-os juntos.
-2. Dê dois cliques em `Iniciar-Traducao.vbs`. Ele abre a janela gráfica sem exibir CMD ou console do PowerShell.
+1. Extraia o ZIP para qualquer pasta ou unidade e mantenha os dois arquivos juntos.
+2. Dê dois cliques em `Iniciar-Traducao.bat`.
 3. Autorize a solicitação do Windows para executar com privilégios de administrador.
-4. Clique em **Instalar tradução PT-BR** ou **Restaurar inglês original**.
+4. Na janela gráfica, escolha **Instalar tradução** ou **Restaurar inglês**.
 5. Se a instalação não estiver no caminho padrão, selecione a pasta do GPU Tweak III.
 
-O iniciador e o script podem ficar em qualquer pasta ou unidade. O arquivo traduzido `aseng.xml` precisa estar junto do script. Se ele não estiver lá, aparecerá a mensagem: **“Tradução não localizada. Coloque o arquivo aseng.xml no mesmo diretório do script.”**
+O `.bat` funciona em qualquer pasta ou unidade, inclusive pendrive e disco externo. Ele procura automaticamente a instalação nas unidades conectadas; se necessário, permite selecionar a pasta. A tradução `aseng.xml` precisa estar no mesmo diretório do `.bat`. Se o arquivo não estiver lá, aparecerá: **“Tradução não localizada. Coloque o arquivo aseng.xml no mesmo diretório do script.”**
 
-Ao instalar ou restaurar, o script fecha o GPU Tweak III antes de substituir o arquivo. Depois pergunta se deseja iniciar o aplicativo: **Sim (S)** abre o programa com o arquivo atualizado; **Não (N)** fecha o instalador e deixa o programa fechado. O script mostra a data e o horário em que a sessão foi iniciada.
+Ao instalar ou restaurar, o programa fecha antes de substituir o arquivo. Em seguida, escolha **Sim (S)** para abrir o GPU Tweak III atualizado ou **Não (N)** para fechar o instalador sem iniciar o programa.
 
 Na primeira instalação, o script salva o arquivo inglês como `_aseng.xml` na própria pasta do jogo. Se uma atualização da ASUS colocar um `aseng.xml` inglês novo, ao instalar novamente o script atualiza o backup para preservar essa versão. A restauração copia `_aseng.xml` de volta para `aseng.xml`.
 
@@ -74,7 +74,7 @@ Na primeira instalação, o script salva o arquivo inglês como `_aseng.xml` na 
 
 ## 🔄 Restaurar o arquivo original
 
-Execute `Iniciar-Traducao.vbs`, clique em **Restaurar inglês original** e confirme a pasta do programa, se solicitado. O script copia `_aseng.xml` de volta para `aseng.xml` e pergunta se deseja abrir o programa.
+Execute `Iniciar-Traducao.bat`, clique em **Restaurar inglês** e confirme a pasta do programa, se solicitado. O instalador copia `_aseng.xml` de volta para `aseng.xml` e pergunta se deseja abrir o programa.
 
 O backup é mantido na pasta do jogo. Não o apague se quiser poder restaurar o idioma original.
 
