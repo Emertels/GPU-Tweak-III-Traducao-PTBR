@@ -1,0 +1,1083 @@
+<?xml version="1"?>
+<!-- Added 20220228  -->
+<Lang font="Calibri">
+	<!-- Added 20220228  end-->
+	<GT3>
+		<LIVEUPDATE IDS="11000001" En="Falha na conexão do Live Update.&#xA;Verifique sua conexão com a internet, firewall ou configurações do provedor de internet."/>
+		<LIVEUPDATE IDS="11000002" En="Falha na verificação de segurança.&#xA;Por favor, relate este problema através da página de feedback do GPU Tweak III."/>
+		<LIVEUPDATE IDS="11000003" En="Todas as versões estão atualizadas."/>
+		<LIVEUPDATE IDS="11000004" En="(estável) está disponível para download. Deseja abrir a página de download agora?"/>
+		<LIVEUPDATE IDS="11000005" En="(beta) está disponível para download. Deseja abrir a página de download agora?"/>
+		<LIVEUPDATE IDS="11000006" En="está disponível para download. Deseja abrir a página de download agora?"/>
+		<LIVEUPDATE IDS="11000007" En="Sim"/>
+		<LIVEUPDATE IDS="11000008" En="Não"/>
+		<LIVEUPDATE IDS="11000009" En="OK"/>
+
+		<LIVEUPDATE IDS="532061" En="Verificar Atualizações Automaticamente"/>
+		<LIVEUPDATE IDS="532064" En="Verificar atualizações do produto"/>
+		<LIVEUPDATE IDS="11000011" En="Nunca"/>
+		<LIVEUPDATE IDS="11000012" En="Na inicialização"/>
+		<LIVEUPDATE IDS="11000013" En="Na inicialização (diariamente)"/>
+		<LIVEUPDATE IDS="11000014" En="Na inicialização (semanalmente)"/>
+		<LIVEUPDATE IDS="532068" En="Incluir versões beta"/>
+		<LIVEUPDATE IDS="532071" En="Última verificação:"/>
+		<LIVEUPDATE IDS="532073" En="Verificar agora"/>
+
+		<SHUTDOWN IDS="208603" En="Sobrecorrente no cabo detectada. O sistema será desligado após a\ncontagem regressiva. Salve seu trabalho agora."/>
+		<SHUTDOWN IDS="208604" En="Nota: O desligamento automático pode ser desativado nas Configurações."/>
+
+		<SHUTDOWN IDS="208608" En="Desligar agora"/>
+		<SHUTDOWN IDS="208609" En="Cancelar desligamento"/>
+
+		<SHUTDOWN IDS="208701" En="O último desligamento foi acionado pela proteção contra sobrecorrente\ndo cabo."/>
+
+
+		<SHUTDOWN IDS="53202101" En="Alertas e notificações:"/>
+		<SHUTDOWN IDS="53202541" En="Desligamento automático:"/>
+		<SHUTDOWN IDS="53202544" En="Desligamento por sobrecorrente: inicia a contagem regressiva para desligamento automático quando a corrente ultrapassa 12,5 A por"/>
+		<SHUTDOWN IDS="53202547" En="Temporizador da contagem regressiva para desligamento automático:"/>
+		<SHUTDOWN IDS="53202549" En="*O limite aumenta para 18 A quando o ROG Equalizer está ativo."/>
+		<SHUTDOWN IDS="53202552" En="Desligamento crítico por sobrecorrente: força o desligamento automático após uma contagem regressiva de 10 segundos se a corrente atingir 17 A."/>
+		<SHUTDOWN IDS="53202554" En="*O limite aumenta para 20 A quando o ROG Equalizer está ativo."/>
+		<SHUTDOWN IDS="53202553" En="min"/>
+		<SHUTDOWN IDS="208611" En="A corrente atingiu 17 A. O desligamento automático começará após uma contagem regressiva de 10 segundos. Se estiver usando um cabo ROG Equalizer, a contagem regressiva de 10 segundos será iniciada quando a corrente atingir 20 A."/>
+
+		<EQUALIZER IDS="10000001" En="ALERTA! O Power Detector+ informa que um ou mais pinos do 12VHPWR excede 17A ou está registrando 0A. Verifique este cabo imediatamente para evitar possíveis riscos." />
+		<EQUALIZER IDS="10000002" En="ALERTA! O Power Detector+ informa que um ou mais pinos do 12VHPWR excede 18A. Verifique este cabo imediatamente para evitar possíveis riscos." />
+		<EQUALIZER IDS="10000003" En="Não me lembrar novamente." />
+		<EQUALIZER IDS="10000004" En="Nota: Para ativar o lembrete, acesse a página de configurações." />
+
+		<EQUALIZER IDS="10000011" En="ALERTA! O Power Detector+ informa que um ou mais pinos do 12VHPWR excede 9,2A ou está registrando 0A. Verifique este cabo imediatamente para evitar possíveis riscos." />
+		<EQUALIZER IDS="10000012" En="ALERTA! O Power Detector+ informa que um ou mais pinos do 12VHPWR excede 12,5A. Verifique este cabo imediatamente para evitar possíveis riscos." />
+		<EQUALIZER IDS="10000013" En="Se você estiver usando o ROG Equalizer, clique no botão abaixo para mudar para o modo ROG Equalizer e obter o desempenho ideal, reduzindo a variação de corrente nos cabos. Isso mantém a temperatura dos pinos equilibrada e melhora a durabilidade geral. Confira a página do nosso produto para mais informações." />
+		<EQUALIZER IDS="10000014" En="Não me lembrar novamente." />
+		<EQUALIZER IDS="10000015" En="Nota: Para ativar o lembrete, acesse a página de configurações." />
+
+		<EQUALIZER IDS="10000031" En="ALERTA! O Power Detector+ informa que um ou mais pinos do 12VHPWR excede 12,5A/9,2A ou está registrando 0A. Verifique este cabo imediatamente para evitar possíveis riscos." />
+		<EQUALIZER IDS="10000032" En="ALERTA! O Power Detector+ informa que um ou mais pinos do 12VHPWR excede 17A/9,2A ou está registrando 0A. Verifique este cabo imediatamente para evitar possíveis riscos." />
+		<EQUALIZER IDS="10000033" En="ALERTA! O Power Detector+ informa que um ou mais pinos do 12VHPWR excede 18A/12,5A. Verifique este cabo imediatamente para evitar possíveis riscos." />
+		<EQUALIZER IDS="10000034" En="ALERTA! O Power Detector+ informa que um ou mais pinos do 12VHPWR excede 18A/9,2A ou está registrando 0A. Verifique este cabo imediatamente para evitar possíveis riscos." />
+		<EQUALIZER IDS="10000035" En="ALERTA! O Power Detector+ informa que um ou mais pinos do 12VHPWR excede 17A/12,5A ou está registrando 0A. Verifique este cabo imediatamente para evitar possíveis riscos." />
+		<EQUALIZER IDS="10000036" En="ALERTA! O Power Detector+ informa que um ou mais pinos do 12VHPWR excede 18A/17A ou está registrando 0A. Verifique este cabo imediatamente para evitar possíveis riscos." />
+
+		<GSENSOR IDS="10000021" En="Instalação em ângulo incorreto detectada.\n\nA posição detectada da placa de vídeo excedeu o limite predefinido. Recomendamos reinstalar a placa de vídeo para evitar possíveis problemas." />
+
+		<!-- HOME -->
+		<EQUALIZER IDS="208304" En="saiba mais..." />
+		<EQUALIZER IDS="70543" En="ROG Equalizer" />
+		<EQUALIZER IDS="70545" En="" HasTip="Ative este modo para o ROG Equalizer. Plug and play, sem necessidade de configuração adicional. Ele\nmantém as temperaturas dos pinos equilibradas e melhora a\ndurabilidade geral. Confira a página do nosso produto para\nmais informações. Se você quiser ocultar esta opção, clique no\nícone de engrenagem próximo ao canto superior direito da\njanela do GPU Tweak III e selecione &quot;Geral&quot;." Tip="Ative este modo para o ROG Equalizer. Plug and play, sem necessidade de configuração adicional. Ele\nmantém as temperaturas dos pinos equilibradas e melhora a\ndurabilidade geral. Confira a página do nosso produto para\nmais informações. Se você quiser ocultar esta opção, clique no\nícone de engrenagem próximo ao canto superior direito da\njanela do GPU Tweak III e selecione &quot;Geral&quot;." />
+		<IDS_Home IDS="4004" En="" HasTip="INÍCIO:\nA página principal para a configuração da placa de vídeo e ajustes dos fans." Tip="INÍCIO:\nA página principal para a configuração da placa de vídeo e ajustes dos fans."/>
+		<IDS_OSD IDS="4008" En="" HasTip="OSD:\nA página de configurações para a exibição na tela (OSD). Note que o OSD é ativado separadamente desta tela." Tip="OSD:\nA página de configurações para a exibição na tela (OSD). Note que o OSD é ativado separadamente desta tela."/>
+		<IDS_TOOLS IDS="4012" En="" HasTip="FERRAMENTAS:\nPermite baixar e iniciar ferramentas úteis como o ROG Furmark e o Armoury Crate." Tip="FERRAMENTAS:\nPermite baixar e iniciar ferramentas úteis como o ROG Furmark e o Armoury Crate."/>
+		<IDS_Monitor IDS="4006" En="" HasTip="MONITOR:\nAbre a janela de monitoramento, permitindo acompanhar as \nestatísticas da GPU em tempo real." Tip="MONITOR:\nAbre a janela de monitoramento, permitindo acompanhar as \nestatísticas da GPU em tempo real."/>
+		<IDS_GPUZ IDS="4010" En="" HasTip="GPU-Z:\nPara facilitar o uso, o GPU Tweak III \nincorpora o GPU-Z, permitindo visualizar \nas especificações detalhadas da placa de vídeo." Tip="GPU-Z:\nPara facilitar o uso, o GPU Tweak III \nincorpora o GPU-Z, permitindo visualizar \nas especificações detalhadas da placa de vídeo."/>
+		<IDS_Close IDS="3002" HasTip="Fechar" Tip="Fechar"/>
+		<IDS_Max IDS="3003" HasTip="Maximizar" Tip="Maximizar"/>
+		<IDS_Min IDS="3005" HasTip="Minimizar" Tip="Minimizar"/>
+		<IDS_Setting IDS="3006" HasTip="Configurações" Tip="Configurações"/>
+		<IDS_HOME_DefaultMode IDS="20003" En="MODO PADRÃO" HasTip="Aplica uma frequência predefinida de núcleo da GPU para desfrutar da experiência gráfica mais equilibrada." Tip="Aplica uma frequência predefinida de núcleo da GPU para desfrutar da experiência gráfica mais equilibrada."/>
+		<IDS_HOME_OCMode IDS="20005" En="MODO OC" HasTip="Permite fazer overclock com um clique, aplicando um \naumento seguro à frequência do núcleo da GPU e ao alvo de potência." Tip="Permite fazer overclock com um clique, aplicando um \naumento seguro à frequência do núcleo da GPU e ao alvo de potência."/>
+		<IDS_HOME_SilentMode IDS="20007" En="MODO SILENCIOSO" HasTip="Torna a placa de vídeo mais silenciosa reduzindo a frequência \ndo núcleo da GPU e o alvo de potência para diminuir o calor e \no ruído do fan." Tip="Torna a placa de vídeo mais silenciosa reduzindo a frequência \ndo núcleo da GPU e o alvo de potência para diminuir o calor e \no ruído do fan."/>
+		<!-- Added 20220228  -->
+		<IDS_HOME_UserDefineMode IDS="20010" En="MODO USUÁRIO" HasTip="Usa um perfil personalizado criado pelo usuário. O nome deste perfil pode ser alterado." Tip="Usa um perfil personalizado criado pelo usuário. O nome deste perfil pode ser alterado."/>
+		<!-- Added 20220228  end-->
+		<IDS_HOME_UserMode_AddNew IDS="30001" En="Adicionar Novo" HasTip="Aplica um perfil configurado pelo usuário ou permite criar um novo." Tip="Aplica um perfil configurado pelo usuário ou permite criar um novo."/>
+		<IDS_HOME_UserMode_Import IDS="30002" En="Importar" HasTip="Encontra e importa um perfil criado anteriormente. Os perfis só podem ser adicionados se aplicáveis à placa de vídeo atualmente instalada." Tip="Encontra e importa um perfil criado anteriormente. Os perfis só podem ser adicionados se aplicáveis à placa de vídeo atualmente instalada."/>
+		<IDS_HOME_UserMode_connect IDS="30010" En="Conectar" HasTip="Vincula jogos e aplicativos aos perfis de GPU e OSD. A função ProfileConnect permite que o GPU Tweak III altere automaticamente as configurações quando os programas são iniciados." Tip="Vincula jogos e aplicativos aos perfis de GPU e OSD. A função ProfileConnect permite que o GPU Tweak III altere automaticamente as configurações quando os programas são iniciados."/>
+		<IDS_OCScanner_OC IDS="7003" En="OC"/>
+		<IDS_OCScanner_Scanner IDS="7004" En="Scanner"/>
+		<IDS_0dbFan_Right IDS="7005" En="Fan 0dB"/>
+		<IDS_0dbFan_Tip_Right IDS="7006" HasTip="Clique para ativar a funcionalidade 0dB. Uma vez ativada, os fans permanecerão inativos quando a temperatura da GPU estiver \nabaixo de um limite predeterminado." Tip="Clique para ativar a funcionalidade 0dB. Uma vez ativada, os fans permanecerão inativos quando a temperatura da GPU estiver \nabaixo de um limite predeterminado."/>
+		<IDS_HomeOSD IDS="7007" En="OSD"/>
+		<IDS_HomeOSD_Tip IDS="7008" HasTip="Clique para habilitar a exibição na tela (OSD). \nA menos que um jogo ou programa tenha sido vinculado com o \nProfileConnect, o perfil OSD Padrão será usado." Tip="Clique para habilitar a exibição na tela (OSD). \nA menos que um jogo ou programa tenha sido vinculado com o \nProfileConnect, o perfil OSD Padrão será usado."/>
+		<IDS_SYNCGPUs IDS="7050" En="Sincronizar GPUs" />
+		<IDS_SYNCGPUs_Tip IDS="7051" HasTip="Aplica as mesmas configurações a todas as placas de vídeo instaladas." Tip="Aplica as mesmas configurações a todas as placas de vídeo instaladas."/>
+		<IDS_PowerDetect_Power IDS="7054" En="Energia" />
+		<IDS_PowerDetect_Detect IDS="70540" En="Detectar" HasTip="0"/>
+		<IDS_PowerDetect_Tip IDS="7055" HasTip="Quando esta função está habilitada, se houver uma queda de tensão\nque exceda um determinado valor, a área do Conector de Energia\nna placa de vídeo piscará uma luz vermelha." Tip="Quando esta função está habilitada, se houver uma queda de tensão\nque exceda um determinado valor, a área do Conector de Energia\nna placa de vídeo piscará uma luz vermelha."/>
+		<IDS_Save IDS="7200" En="Salvar" HasTip="Salva o perfil usando o mesmo nome." Tip="Salva o perfil usando o mesmo nome."/>
+		<IDS_Save_As IDS="7202" En="Salvar como" HasTip="Salva o perfil usando um novo nome." Tip="Salva o perfil usando um novo nome."/>
+		<IDS_Apply IDS="7010" En="Aplicar" HasTip="Aplica as configurações atuais para usar na placa \nde vídeo." Tip="Aplica as configurações atuais para usar na placa \nde vídeo."/>
+		<IDS_Cancel IDS="7014" En="Cancelar" HasTip="Reverte as configurações para a última configuração salva." Tip="Reverte as configurações para a última configuração salva."/>
+		<IDS_Default IDS="7012" En="Padrão" HasTip="Reverte as configurações para o padrão." Tip="Reverte as configurações para o padrão."/>
+		<IDS_Bcak IDS="7019" En="Voltar" HasTip="Retorna à tela anterior." Tip="Retorna à tela anterior."/>
+		<IDS_Preview IDS="7025" En="Visualizar" HasTip="Abre uma tela de visualização com o OSD ativado. Pressione \n'Esc' para fechar a tela após abri-la." Tip="Abre uma tela de visualização com o OSD ativado. Pressione \n'Esc' para fechar a tela após abri-la."/>
+		<IDS_0dbFan_left IDS="8005" En="Fan 0dB"/>
+		<IDS_0dbFan_Tip_left IDS="8006" HasTip="Clique para ativar a funcionalidade 0dB. Uma vez ativada, os fans permanecerão inativos quando a temperatura da GPU estiver \nabaixo de um limite predeterminado." Tip="Clique para ativar a funcionalidade 0dB. Uma vez ativada, os fans permanecerão inativos quando a temperatura da GPU estiver \nabaixo de um limite predeterminado."/>
+		<IDS_HomeOSD_left IDS="8007" En="OSD"/>
+		<IDS_HomeOSD_Tip_left IDS="8008" HasTip="Clique para habilitar a exibição na tela (OSD). \nA menos que um jogo ou programa tenha sido vinculado com o \nProfileConnect, o perfil OSD Padrão será usado." Tip="Clique para habilitar a exibição na tela (OSD). \nA menos que um jogo ou programa tenha sido vinculado com o \nProfileConnect, o perfil OSD Padrão será usado."/>
+		<IDS_SYNCGPUs_left IDS="7052" En="Sincronizar GPUs" />
+		<IDS_SYNCGPUs_Tip_left IDS="7053" HasTip="Aplica as mesmas configurações a todas as placas de vídeo instaladas." Tip="Aplica as mesmas configurações a todas as placas de vídeo instaladas."/>
+		<IDS_PowerDetect_left IDS="7056" En="Detectar Energia" />
+		<IDS_PowerDetect_Tip_left IDS="7057" HasTip="Quando esta função está habilitada, se houver uma queda de tensão\nque exceda um determinado valor, a área do Conector de Energia\nna placa de vídeo piscará uma luz vermelha." Tip="Quando esta função está habilitada, se houver uma queda de tensão\nque exceda um determinado valor, a área do Conector de Energia\nna placa de vídeo piscará uma luz vermelha."/>
+		<!-- Added 20220228  -->
+		<IDS_Home_Dashboard_Save IDS="7015" En="Salvar" HasTip="Salva o perfil usando o mesmo nome." Tip="Salva o perfil usando o mesmo nome."/>
+		<IDS_Home_Dashboard_Default IDS="7017" En="Padrão" HasTip="Reverte as configurações para o padrão." Tip="Reverte as configurações para o padrão."/>
+		<IDS_Home_Controller_Save IDS="7020" En="Salvar" HasTip="Salva o perfil usando o mesmo nome." Tip="Salva o perfil usando o mesmo nome."/>
+		<IDS_Home_Controller_Default IDS="7022" En="Padrão" HasTip="Reverte as configurações para o padrão." Tip="Reverte as configurações para o padrão."/>
+		<IDS_Home_Controller_Bcak IDS="7024" En="Voltar" HasTip="Retorna à tela anterior." Tip="Retorna à tela anterior."/>
+		<IDS_OSD_Save IDS="7027" En="Salvar" HasTip="Salva o perfil usando o mesmo nome." Tip="Salva o perfil usando o mesmo nome."/>
+		<IDS_OSD_Save_As IDS="7029" En="Salvar como" HasTip="Salva o perfil usando um novo nome." Tip="Salva o perfil usando um novo nome."/>
+		<IDS_OSD_Preview IDS="7025" En="Visualizar" HasTip="Abre uma tela de visualização com o OSD ativado. Pressione 'Esc' para fechar a tela após abri-la." Tip="Abre uma tela de visualização com o OSD ativado. Pressione 'Esc' para fechar a tela após abri-la."/>
+		<IDS_OSD_Cancel IDS="7031" En="Padrão" HasTip="Reverte as configurações para o padrão." Tip="Reverte as configurações para o padrão."/>
+		<IDS_Right_Save IDS="9200" En="Salvar" HasTip="Salva o perfil usando o mesmo nome." Tip="Salva o perfil usando o mesmo nome."/>
+		<IDS_Right_Save_As IDS="9202" En="Salvar como" HasTip="Salva o perfil usando um novo nome." Tip="Salva o perfil usando um novo nome."/>
+		<IDS_Right_Apply IDS="9003" En="Aplicar" HasTip="Aplica as configurações atuais para usar com a placa de vídeo." Tip="Aplica as configurações atuais para usar com a placa de vídeo."/>
+		<IDS_Right_Cancel IDS="9007" En="Cancelar" HasTip="Reverte as configurações para a última configuração salva." Tip="Reverte as configurações para a última configuração salva."/>
+		<IDS_Right_Default IDS="9005" En="Padrão" HasTip="Reverte as configurações para o padrão." Tip="Reverte as configurações para o padrão."/>
+		<IDS_Right_Home_Dashboard_Save IDS="9009" En="Salvar" HasTip="Salva o perfil usando o mesmo nome." Tip="Salva o perfil usando o mesmo nome."/>
+		<IDS_Right_Home_Dashboard_Default IDS="9011" En="Padrão" HasTip="Reverte as configurações para o padrão." Tip="Reverte as configurações para o padrão."/>
+		<IDS_Right_Home_Dashboard_Bcak IDS="9013" En="Voltar" HasTip="Retorna à tela anterior." Tip="Retorna à tela anterior."/>
+		<IDS_Right_Home_Controller_Save IDS="9014" En="Salvar" HasTip="Salva o perfil usando o mesmo nome." Tip="Salva o perfil usando o mesmo nome."/>
+		<IDS_Right_Home_Controller_Default IDS="9016" En="Padrão" HasTip="Reverte as configurações para o padrão." Tip="Reverte as configurações para o padrão."/>
+		<IDS_Right_Home_Controller_Bcak IDS="9018" En="Voltar" HasTip="Retorna à tela anterior." Tip="Retorna à tela anterior."/>
+		<IDS_Right_OSD_Save IDS="9021" En="Salvar" HasTip="Salva o perfil usando o mesmo nome." Tip="Salva o perfil usando o mesmo nome."/>
+		<IDS_Right_OSD_Save_As IDS="9023" En="Salvar como" HasTip="Salva o perfil usando um novo nome." Tip="Salva o perfil usando um novo nome."/>
+		<IDS_Right_OSD_Preview IDS="9019" En="Visualizar" HasTip="Abre uma tela de visualização com o OSD ativado. Pressione 'Esc' para fechar a tela após abri-la." Tip="Abre uma tela de visualização com o OSD ativado. Pressione 'Esc' para fechar a tela após abri-la."/>
+		<IDS_Right_OSD_Cancel IDS="9025" En="Padrão" HasTip="Reverte as configurações para o padrão." Tip="Reverte as configurações para o padrão."/>
+		<!-- Added 20220228  end-->
+		<!-- Home Item -->
+        <IDS_rog_eq3 IDS="208403" En="Para ativar o suporte ao ROG Equalizer, marque o(s)\ndispositivo(s) correspondente(s) abaixo."/>
+		<IDS_rog_eq2 IDS="208309" En="Trocar cabo"/>
+		<IDS_rog_eq IDS="208409" En="Aviso: o limite de corrente aumentará de\n9,2A para 17A e de 12,5A para 18A. Por segurança, só\naplique esta configuração quando o cabo ROG Equalizer\nestiver em uso."/>
+		<IDS_Main_Core_Others IDS="27007" En="Energia" HasTip="0"/>
+		<IDS_Main_Core_Others IDS="27011" En="Clock" HasTip="0"/>
+		<IDS_Main_Core_Others IDS="27015" En="Velocidade do Fan" HasTip="0"/>
+		<IDS_Main_Core_Others IDS="27019" En="Outros" HasTip="0"/>
+		<IDS_Main_Core_Others_V1 IDS="113101" En="Energia" HasTip="0" />
+  		<IDS_Main_Core_Others_V1 IDS="113102" En="Clock" HasTip="0" />
+  		<IDS_Main_Core_Others_V1 IDS="113103" En="Fan" HasTip="0" />
+ 		<IDS_Main_Core_Others_V1 IDS="113104" En="Outros" HasTip="0" />
+		<IDS_Main_Core_Clock_Tip IDS="27221" HasTip="Permite ajustar a frequência do núcleo da GPU (clock \nboost). Note que frequências mais altas podem exigir \numa maior tensão no núcleo da GPU. \nFaça ajustes graduais e verifique a estabilidade \na cada vez que aumentar a frequência do núcleo." Tip="Permite ajustar a frequência do núcleo da GPU (clock \nboost). Note que frequências mais altas podem exigir \numa maior tensão no núcleo da GPU. \nFaça ajustes graduais e verifique a estabilidade \na cada vez que aumentar a frequência do núcleo."/>
+		<IDS_Main_Core_Clock IDS="27222" En="Clock GPU Boost" HasTip="0"/>
+		<IDS_Tip_Clock_UserDefine_Btn_Value IDS="27237" HasTip="Permite definir a frequência do núcleo da GPU para cada \netapa de tensão em uma curva completa. Recomenda-se usar \no OC Scanner primeiro e, em seguida, ajustar a frequência da GPU \ngradualmente, verificando a estabilidade toda vez que alterar \nos pontos." Tip="Permite definir a frequência do núcleo da GPU para cada \netapa de tensão em uma curva completa. Recomenda-se usar \no OC Scanner primeiro e, em seguida, ajustar a frequência da GPU \ngradualmente, verificando a estabilidade toda vez que alterar \nos pontos."/>
+		<IDS_Main_GPU_Voltage_Tip IDS="27067" HasTip="Define a tensão para o núcleo da GPU. Note que definir um valor muito baixo para a frequência de núcleo da GPU aplicada pode \ncausar instabilidade." Tip="Define a tensão para o núcleo da GPU. Note que definir um valor muito baixo para a frequência de núcleo da GPU aplicada pode \ncausar instabilidade."/>
+		<IDS_Main_GPU_Voltage IDS="27068" En="Tensão da GPU" HasTip="0"/>
+		<IDS_Main_Memory_Clock_Tip IDS="27241" HasTip="Permite ajustar a frequência da memória da GPU. \nRecomenda-se ajustar a frequência da memória após \nestabelecer uma frequência estável do núcleo da GPU. \nFaça ajustes graduais e verifique a estabilidade \na cada vez que aumentar o clock da memória." Tip="Permite ajustar a frequência da memória da GPU. \nRecomenda-se ajustar a frequência da memória após \nestabelecer uma frequência estável do núcleo da GPU. \nFaça ajustes graduais e verifique a estabilidade \na cada vez que aumentar o clock da memória."/>
+		<IDS_Main_Memory_Clock IDS="27242" En="Clock da Memória" HasTip="0"/>
+		<!-- Added 20220228  -->
+		<IDS_Main_Frame_Rate_Tip IDS="27833" HasTip="Aplica um alvo de taxa de quadros específico. Assim que atinge \nesse alvo, a carga de trabalho da GPU é limitada para \nmanter essa taxa de quadros. Aplicar um alvo de taxa de quadros que corresponda ou seja ligeiramente inferior à taxa de \natualização do seu monitor é o recomendado. Fazer isso\nreduz as temperaturas do núcleo da GPU e o consumo de energia \ne também pode ajudar a aumentar a margem de overclock em alguns jogos. O valor '0' torna o alvo de taxa de quadros ilimitado." Tip="Aplica um alvo de taxa de quadros específico. Assim que atinge \nesse alvo, a carga de trabalho da GPU é limitada para \nmanter essa taxa de quadros. Aplicar um alvo de taxa de quadros que corresponda ou seja ligeiramente inferior à taxa de \natualização do seu monitor é o recomendado. Fazer isso\nreduz as temperaturas do núcleo da GPU e o consumo de energia \ne também pode ajudar a aumentar a margem de overclock em alguns jogos. O valor '0' torna o alvo de taxa de quadros ilimitado."/>
+		<!-- Added 20220228  end -->
+		<IDS_Main_Frame_Rate IDS="27834" En="Alvo de Taxa de Quadros" HasTip="0"/>
+		<IDS_Main_GPU_Temperature_Tip IDS="27801" HasTip="O Alvo de Temp. da GPU define a temperatura na qual o núcleo da GPU reduzirá a frequência para a operação 3D \nnormal. Um valor mais alto permite que o clock boost seja mantido por períodos mais longos durante cargas intensas de gráficos/computação." Tip="O Alvo de Temp. da GPU define a temperatura na qual o núcleo da GPU reduzirá a frequência para a operação 3D \nnormal. Um valor mais alto permite que o clock boost seja mantido por períodos mais longos durante cargas intensas de gráficos/computação."/>
+		<IDS_Main_GPU_Temperature IDS="27802" En="Alvo de Temp. da GPU" HasTip="0"/>
+		<IDS_Main_PowerTarget_Tip IDS="27051" HasTip="O alvo de potência define a energia máxima que a placa \npode consumir antes que o núcleo da GPU seja instruído a reduzir o clock. Um valor mais alto permite que o clock boost seja mantido \npor períodos mais longos durante cargas intensas. O valor\npode precisar de ajuste quando o Clock da GPU for \naumentado porque ambas as configurações resultam em um consumo\nmaior de energia." Tip="O alvo de potência define a energia máxima que a placa \npode consumir antes que o núcleo da GPU seja instruído a reduzir o clock. Um valor mais alto permite que o clock boost seja mantido \npor períodos mais longos durante cargas intensas. O valor\npode precisar de ajuste quando o Clock da GPU for \naumentado porque ambas as configurações resultam em um consumo\nmaior de energia."/>
+		<IDS_Main_PowerTarget IDS="27052" En="Alvo de Potência" HasTip="0"/>
+		<IDS_Main_PowerTarget_AMD IDS="#####" En="Alvo de Potência" HasTip="O alvo de potência define a energia máxima que a placa \npode consumir antes que o núcleo da GPU seja instruído a reduzir o clock. Um valor mais alto permite que o clock boost seja mantido por períodos mais longos durante cargas de trabalho intensas. O valor pode precisar de ajuste quando o Clock da GPU e/ou a Tensão da GPU forem alterados porque ambas as configurações podem exigir maior consumo de energia." Tip="O alvo de potência define a energia máxima que a placa \npode consumir antes que o núcleo da GPU seja instruído a reduzir o clock. Um valor mais alto permite que o clock boost seja mantido por períodos mais longos durante cargas de trabalho intensas. O valor pode precisar de ajuste quando o Clock da GPU e/ou a Tensão da GPU forem alterados porque ambas as configurações podem exigir maior consumo de energia."/>
+		<IDS_Tip_Customize_Clock IDS="27013" HasTip="Permite personalizar o \nmenu do modo usuário." Tip="Permite personalizar o \nmenu do modo usuário."/>
+		<IDS_Tip_Customize_DashboardPanel IDS="25001" HasTip="Permite personalizar o \nmenu do modo usuário." Tip="Permite personalizar o \nmenu do modo usuário."/>
+		<IDS_Tip_Customize_Power IDS="27009" HasTip="Permite personalizar o \nmenu do modo usuário." Tip="Permite personalizar o \nmenu do modo usuário."/>
+		<IDS_Tip_Customize_Others IDS="27021" HasTip="Permite personalizar o \nmenu do modo usuário." Tip="Permite personalizar o \nmenu do modo usuário."/>
+		<IDS_Main_Memory_Voltage IDS="27084" En="Tensão da Memória"/>
+		<IDS_Main_VCCI IDS="27100" En="Tensão VDDCI"/>
+		<IDS_Main_GPU_Fan_duty_Tip IDS="27421" HasTip="Permite definir uma velocidade estática do fan ou uma curva \npersonalizada. Note que definir um valor muito baixo resultará em temperaturas de núcleo mais altas, o que pode causar \ninstabilidade quando a GPU sofrer overclock. \nDefinir um valor muito alto produzirá mais ruído." Tip="Permite definir uma velocidade estática do fan ou uma curva \npersonalizada. Note que definir um valor muito baixo resultará em temperaturas de núcleo mais altas, o que pode causar \ninstabilidade quando a GPU sofrer overclock. \nDefinir um valor muito alto produzirá mais ruído."/>
+		<IDS_Main_GPU_Fan_duty IDS="27422" En="Veloc. do Fan da GPU" HasTip="0"/>
+		<IDS_Tip_Customize_Fan IDS="27017" HasTip="Permite personalizar o \nmenu do modo usuário." Tip="Permite personalizar o \nmenu do modo usuário."/>
+		<IDS_Tip_Fan_Auto_Btn IDS="27435" HasTip="Aplica a curva padrão do fan." Tip="Aplica a curva padrão do fan."/>
+		<IDS_Tip_Fan_UserDefine_Btn IDS="27437" HasTip="Abre o painel de controle do fan, para que você possa ajustar\nmanualmente a curva do fan." Tip="Abre o painel de controle do fan, para que você possa ajustar\nmanualmente a curva do fan."/>
+		<IDS_Main_LoadLine IDS="27818" En="Linha de Carga"/>
+		<IDS_Main_VRMClock IDS="27302" En="Clock VRM"/>
+		<IDS_Main_0V95V_Voltage IDS="27148" En="Tensão 0.95V"/>
+		<IDS_Main_3V3V_Voltag IDS="27180" En="Tensão 3.3V"/>
+		<IDS_Main_1V8V_Voltage IDS="27164" En="Tensão 1.8V"/>
+		<IDS_Main_ExternalFanduty IDS="27462" En="Veloc. do Fan Ext." HasTip="0"/>
+		<IDS_Main_ExtFan_Auto_Btn IDS="27475" HasTip="Define uma velocidade estática do fan por RPM." Tip="Define uma velocidade estática do fan por RPM."/>
+		<IDS_Main_ExtFan_UserDefine_Btn IDS="27477" HasTip="Abre o painel de controle do fan, para que você possa ajustar\nmanualmente a curva do fan." Tip="Abre o painel de controle do fan, para que você possa ajustar\nmanualmente a curva do fan."/>
+		<IDS_Main_ExternalFan2RPM IDS="27482" En="Veloc. do Fan Ext. 2"/>
+		<IDS_Main_DisplayRefreshRate_Tip IDS="27281" HasTip="Define a taxa de atualização da tela. Em geral, isso deve corresponder à taxa de atualização do seu monitor." Tip="Define a taxa de atualização da tela. Em geral, isso deve corresponder à taxa de atualização do seu monitor."/>
+		<IDS_Main_DisplayRefreshRate IDS="27282" En="Taxa de Atualização da Tela" HasTip="0"/>
+		<IDS_Main_PowerFrequency IDS="27262" En="Frequência de Energia"/>
+		<IDS_Main_GPU_Fan_2_duty_Tip IDS="27441" HasTip="Permite definir uma velocidade estática do fan ou uma curva \npersonalizada. Note que definir um valor muito baixo resultará em temperaturas de núcleo mais altas, o que pode causar \ninstabilidade quando a GPU sofrer overclock. \nDefinir um valor muito alto produzirá mais ruído." Tip="Permite definir uma velocidade estática do fan ou uma curva \npersonalizada. Note que definir um valor muito baixo resultará em temperaturas de núcleo mais altas, o que pode causar \ninstabilidade quando a GPU sofrer overclock. \nDefinir um valor muito alto produzirá mais ruído."/>
+		<IDS_Main_GPU_Fan_2_duty IDS="27442" En="Veloc. do Fan 2 da GPU" HasTip="0"/>
+		<IDS_Tip_Fan2_Auto_Btn IDS="27455" HasTip="Aplica a curva padrão do fan." Tip="Aplica a curva padrão do fan."/>
+		<IDS_Tip_Fan2_UserDefine_Btn IDS="27457" HasTip="Abre o painel de controle do fan, para que você possa ajustar\nmanualmente a curva do fan." Tip="Abre o painel de controle do fan, para que você possa ajustar\nmanualmente a curva do fan."/>
+		<!-- Home ProgressRing -->
+		<IDS_Main_ProgressRing_Core_Clock IDS="22150" En="Clock da GPU"/>
+		<IDS_Main_ProgressRing_GPU_Voltage IDS="22110" En="Tensão da GPU"/>
+		<IDS_Main_ProgressRing_Memory_Clock IDS="22155" En="Clock da Memória"/>
+		<IDS_Main_ProgressRing_Frame_Rate IDS="22205" En="Alvo de Taxa de Quadros"/>
+		<IDS_Main_ProgressRing_GPU_Temperature IDS="22195" En="Temp. da GPU"/>
+		<IDS_Main_ProgressRing_PowerTarget IDS="22105" En="Energia da GPU"/>
+		<IDS_Main_ProgressRing_48V IDS="22210" En="Tensão de Entrada"/>
+		<IDS_Main_ProgressRing_48V IDS="22215" En="Consumo Total de Energia"/>
+		<IDS_Main_ProgressRing_Memory_Voltage IDS="22115" En="Tensão da Memória"/>
+		<IDS_Main_ProgressRing_VCCI IDS="22120" En="Tensão VDDCI"/>
+		<IDS_Main_ProgressRing_MinVoltage IDS="22125" En="Tensão Mín. da GPU"/>
+		<IDS_Main_ProgressRing_MaxVoltage IDS="22130" En="Tensão Máx. da GPU"/>
+		<IDS_Main_ProgressRing_GPU_Fan_duty IDS="22175" En="Veloc. do Fan (Laterais)"/>
+		<IDS_Main_ProgressRing_LoadLine IDS="22200" En="Linha de Carga"/>
+		<IDS_Main_ProgressRing_VRMClock IDS="22170" En="Clock VRM"/>
+		<IDS_Main_ProgressRing_0V95V_Voltage IDS="22135" En="Tensão 0.95"/>
+		<IDS_Main_ProgressRing_3V3V_Voltag IDS="22145" En="Tensão 3.3"/>
+		<IDS_Main_ProgressRing_1V8V_Voltage IDS="22140" En="Tensão 1.8"/>
+		<IDS_Main_ProgressRing_ExternalFanduty IDS="22185" En="Veloc. do Fan Ext."/>
+		<IDS_Main_ProgressRing_ExternalFan2RPM IDS="22190" En="Veloc. do Fan Ext. 2"/>
+		<IDS_Main_ProgressRing_DisplayRefreshRate IDS="22165" En="Taxa de Atualização da Tela"/>
+		<IDS_Main_ProgressRing_PowerFrequency IDS="22160" En="Frequência de Energia"/>
+		<IDS_Main_ProgressRing_GPU_Fan_2_duty IDS="22180" En="Veloc. do Fan (Central)"/>
+		<!-- Home Control Arrange -->
+		<IDS_Main_Control_Arrange_Power IDS="114101" En="Alvo de Potência (%)"/>
+		<IDS_Main_Control_Arrange_Voltage IDS="114102" En="Tensão da GPU (%)"/>
+		<IDS_Main_Control_Arrange_MemoryVoltage IDS="114103" En="Tensão da Memória (mV)"/>
+		<IDS_Main_Control_Arrange_VDDCI IDS="114104" En="VDDCI (mV)"/>
+		<IDS_Main_Control_Arrange_MinVoltage IDS="114105" En="Tensão Mín. da GPU (mV)"/>
+		<IDS_Main_Control_Arrange_MaxVoltage IDS="114106" En="Tensão Máx. da GPU (mV)"/>
+		<IDS_Main_Control_Arrange_93Voltage IDS="114107" En="Tensão 0.95 (mV)"/>
+		<IDS_Main_Control_Arrange_18Voltage IDS="114108" En="Tensão 1.8 (mV)"/>
+		<IDS_Main_Control_Arrange_33Voltage IDS="114109" En="Tensão 3.3 (mV)"/>
+		<IDS_Main_Control_Arrange_BoostClock IDS="114401" En="Clock GPU Boost (MHz)"/>
+		<IDS_Main_Control_Arrange_MemoryClock IDS="114402" En="Clock da Memória (MHz)"/>
+		<IDS_Main_Control_Arrange_PowerFrequency IDS="114403" En="Frequência de Energia (Hz)"/>
+		<IDS_Main_Control_Arrange_Display IDS="114404" En="Taxa de Atualização da Tela (Hz)"/>
+		<IDS_Main_Control_Arrange_VRMClock IDS="114405" En="Clock VRM (KHz)"/>
+		<IDS_Main_Control_Arrange_Fan1Speed IDS="114701" En="Veloc. do Fan 1 (%)"/>
+		<IDS_Main_Control_Arrange_Fan2Speed IDS="114702" En="Veloc. do Fan 2 (%)"/>
+		<IDS_Main_Control_Arrange_ExtFanSpeed IDS="114703" En="Veloc. do Fan Ext. (%)"/>
+		<IDS_Main_Control_Arrange_ExtFan2Speed IDS="114704" En="Veloc. do Fan Ext. 2 (%)"/>
+		<IDS_Main_Control_Arrange_TempTarget IDS="115001" En="Alvo de Temp. da GPU (°C)"/>
+		<IDS_Main_Control_Arrange_LoadLine IDS="115002" En="Linha de Carga (%)"/>
+		<IDS_Main_Control_Arrange_FrameRateTarget IDS="115003" En="Alvo de Taxa de Quadros (FPS)"/>
+		<!-- TOOLS -->
+		<!-- Added 20220228  -->
+		<IDS_TOOLS_Furmark_Tip IDS="130101" HasTip="Teste a estabilidade e o desempenho usando a Edição ROG do\nFurMark, a popular ferramenta de teste de estresse de placa de vídeo." Tip="Teste a estabilidade e o desempenho usando a Edição ROG do\nFurMark, a popular ferramenta de teste de estresse de placa de vídeo."/>
+		<IDS_TOOLS_Furmark IDS="130201" En="ROG Furmark" HasTip="0"/>
+		<IDS_TOOLS_AURA_Tip IDS="130102" HasTip="Personalize os efeitos de iluminação da sua placa de vídeo e \noutros produtos ASUS através do Armoury Crate." Tip="Personalize os efeitos de iluminação da sua placa de vídeo e \noutros produtos ASUS através do Armoury Crate."/>
+		<IDS_TOOLS_AURA IDS="130202" En="Armoury Crate" HasTip="0"/>
+		<IDS_TOOLS_QC_Tip IDS="130103" HasTip="Coloque a sua placa de vídeo ociosa para trabalhar com o \nQuantumCloud. Os ganhos podem ser transferidos automaticamente \npara contas do WeChat ou PayPal." Tip="Coloque a sua placa de vídeo ociosa para trabalhar com o \nQuantumCloud. Os ganhos podem ser transferidos automaticamente \npara contas do WeChat ou PayPal."/>
+		<IDS_TOOLS_QC IDS="130203" En="QuantumCloud" HasTip="0"/>
+		<IDS_TOOLS_XSplit_Tip IDS="130104" HasTip="Configure seu sistema para streaming sem lag e \ngravação com a suíte de ferramentas de criação de conteúdo XSplit." Tip="Configure seu sistema para streaming sem lag e \ngravação com a suíte de ferramentas de criação de conteúdo XSplit."/>
+		<IDS_TOOLS_XSplit IDS="130204" En="XSplit" HasTip="0"/>
+		<!-- Added 20220228  end-->
+		<!-- Setting -->
+		<IDS_Setting_General IDS="500006" En="Geral"/>
+		<IDS_Setting_Interface IDS="500007" En="Interface"/>
+		<IDS_Setting_Monitor IDS="500008" En="Monitor"/>
+    <IDS_Setting_Plug_in IDS="500009" En="Plug-in"/>
+		<IDS_Setting_Hotkey IDS="500010" En="Atalhos"/>
+		<IDS_Setting_Save IDS="505007" En="Você tem alterações não salvas. Deseja sair desta tela sem salvar?"/>
+		<IDS_Setting_YES IDS="505011" En="SIM"/>
+		<IDS_Setting_NO IDS="505013" En="NÃO"/>
+		<IDS_Setting_SettingSaved IDS="506006" En="Configurações salvas."/>
+		<!-- General -->
+		<IDS_Setting_General_GENERAL IDS="510004" En="GERAL"/>
+		<IDS_Setting_General_Start_Windows IDS="510007" En="Iniciar com o Windows"/>
+		<IDS_Setting_General_Start_Minimized IDS="510010" En="Iniciar minimizado"/>
+		<IDS_Setting_General_Open_Monitor IDS="511022" En="Mostrar Monitoramento ao iniciar o programa"/>
+		
+		<IDS_Setting_General_enable_power_detect IDS="5100190" En="Ativar Power Detect"/>
+		<IDS_Setting_General_enable_gpu_sync IDS="5100191" En="Ativar GPU Sync"/>
+		<IDS_Setting_General_title IDS="532031" En="ROG Equalizer"/>
+		<IDS_Setting_General_if_you_are_using IDS="532034" En="Se você estiver usando o ROG Equalizer, selecione seu dispositivo abaixo. O sistema aplicará as configurações ideais para este cabo.\n"/>
+		<IDS_Setting_General_card IDS="532037" En="Placa de Vídeo"/>
+		<IDS_Setting_General_mb IDS="532040" En="Placa-mãe"/>
+		<IDS_Setting_General_card2 IDS="208405" En="Placa de Vídeo"/>
+		<IDS_Setting_General_mb2 IDS="208407" En="Placa-mãe"/>
+		<IDS_Setting_General_warning IDS="532043" En="Aviso: o limite de corrente aumentará de 9,2A para 17A e de 12,5A para 18A. Por segurança, só aplique esta configuração quando o\ncabo ROG Equalizer estiver em uso."/>
+		<IDS_Setting_General_hide IDS="532046" En="Ocultar a opção do ROG Equalizer na Tela Principal."/>
+		<IDS_Setting_General_remind IDS="532049" En="Lembrar-me de mudar de modo com uma janela pop-up."/>
+
+		<!-- Added 20220228  -->
+		<IDS_Setting_General_OC_Enhancement_Tip IDS="510012" HasTip="Se habilitado, os controles deslizantes e os valores aceitáveis para o Clock GPU Boost, Alvo de Potência e Tensão da GPU podem ter um limite maior. Configurações fora do uso pretendido pelo fabricante podem causar instabilidade e/ou anular a garantia do produto. Use por sua própria conta e risco." Tip="Se habilitado, os controles deslizantes e os valores aceitáveis para o Clock GPU Boost, Alvo de Potência e Tensão da GPU podem ter um limite maior. Configurações fora do uso pretendido pelo fabricante podem causar instabilidade e/ou anular a garantia do produto. Use por sua própria conta e risco."/>
+		<IDS_Setting_General_OC_Enhancement IDS="510013" En="Expandir limite de overclocking" HasTip="0"/>
+		<!-- Added 20220228  end-->
+		<IDS_Setting_General_Applying_Startup IDS="510016" En="Aplicar configurações anteriores ao iniciar o programa"/>
+		<IDS_Setting_General_Notification_Window IDS="510019" En="Janelas de notificação"/>
+		<IDS_Setting_General_Mouse_Step IDS="510022" En="Sensibilidade do mouse"/>
+		<IDS_Setting_General_units IDS="510027" En="unidades"/>
+		<IDS_Setting_General_REGIONAL_SETTINGS IDS="520003" En="CONFIGURAÇÕES REGIONAIS"/>
+		<IDS_Setting_General_inter_tool_tips IDS="520006" En="Mostrar dicas da interface"/>
+		<IDS_Setting_General_Language IDS="520009" En="Idioma"/>
+		<IDS_Setting_General_Lang IDS="590117" En="Chinês (Tradicional)"/>
+		<IDS_Setting_General_OSDAdjustment IDS="532002" En="CAPTURAS DE TELA DO OSD"/>
+		<IDS_Setting_General_ShowOn-screen IDS="532005" En="Incluir configurações na tela nas capturas"/>
+		<IDS_Setting_General_ScreenFormat IDS="532008" En="Formato da imagem de captura de tela"/>
+		<IDS_Setting_General_ScreenFolder IDS="532012" En="Pasta para salvar capturas de tela"/>
+		<IDS_Setting_General_FpsFolder IDS="5320120" En="Pasta para salvar arquivo de gravação de FPS"/>
+		<IDS_Setting_General_Browse IDS="532013" En="Procurar"/>
+		<IDS_Setting_General_BrowseFPS IDS="5320130" En="Procurar"/>
+		<IDS_Setting_General_Save IDS="511008" En="Salvar"/>
+		<IDS_Setting_General_Undo IDS="511006" En="Desfazer"/>
+		<IDS_Setting_General_Default IDS="511004" En="Padrão"/>
+		<IDS_Setting_General_Close IDS="511002" En="Fechar"/>
+		<IDS_Close1 IDS="208108" En="Fechar"/>
+		<IDS_Close2 IDS="208308" En="Fechar"/>
+		<IDS_Close3 IDS="208508" En="Fechar"/>
+		<!-- Interface -->
+		<IDS_Setting_Interface_UINT IDS="520013" En="UNIDADES"/>
+		<IDS_Setting_Interface_Temp_scale IDS="520016" En="Escala de temperatura "/>
+		<IDS_Setting_Interface_Time_format IDS="520023" En="Formato de hora "/>
+		<IDS_Setting_Interface_hours1 IDS="520025" En="12 horas"/>
+		<IDS_Setting_Interface_hours2 IDS="520027" En="24 horas"/>
+		<IDS_Setting_Interface_COLORS IDS="520031" En="PERSONALIZAÇÃO DA INTERFACE"/>
+		<IDS_Setting_Interface_Background_COLOR IDS="520034" En="Cor de fundo"/>
+		<IDS_Setting_Interface_Main_Color IDS="520039" En="Cor principal do tema"/>
+		<IDS_Setting_Interface_Theme_Color IDS="520044" En="Cor secundária do tema"/>
+		<IDS_Setting_Interface_Text_Color IDS="520049" En="Cor do texto"/>
+		<IDS_Setting_Interface_Display_Wallpaper IDS="520054" En="Papel de parede de fundo"/>
+		<IDS_Setting_Interface_wall_Default IDS="520057" En="Nenhum"/>
+		<IDS_Setting_Interface_Custom IDS="520060" En="Personalizado"/>
+		<IDS_Setting_Interface_Browse IDS="520061" En="Procurar"/>
+		<IDS_Setting_Interface_Wallpaper_Transparency IDS="520064" En="Transp. do papel de parede"/>
+		<IDS_Setting_Interface_Interface_Transparency IDS="520069" En="Transparência da interface"/>
+		<IDS_Setting_Interface_Save IDS="521008" En="Salvar"/>
+		<IDS_Setting_Interface_Undo IDS="521006" En="Desfazer"/>
+		<IDS_Setting_Interface_Default IDS="521004" En="Padrão"/>
+		<IDS_Setting_Interface_Close IDS="521002" En="Fechar"/>
+		<!-- Monitor -->
+		<IDS_Setting_Monitor_LOG_ADJUSTMENT IDS="530003" En="CONFIGURAÇÃO DE MONITORAMENTO"/>
+		<IDS_Setting_Monitor_Log_History_To_File IDS="530006" En="Pasta de arquivo de histórico de logs:"/>
+		<IDS_Setting_Monitor_record_logs IDS="530010" En="Duração do tempo para gravar logs:"/>
+		<IDS_Setting_Monitor_Log_freqency IDS="530015" En="Frequência de monitoramento e log:"/>
+		<IDS_Setting_Monitor_Estimated_Memory_Size IDS="530020" En="Tamanho estimado do arquivo:"/>
+		<IDS_Setting_Monitor_Limit_log IDS="530025" En="Definir um limite de tamanho de arquivo para as configurações de log:"/>
+		<IDS_Setting_Monitor_MB IDS="530022" En="MB"/>
+		<IDS_Setting_Monitor_GRAPHIC_CARDS IDS="530035" En="PLACAS DE VÍDEO NO MONITORAMENTO"/>
+		<IDS_Setting_Monitor_SelectAll IDS="530038" En="Selecionar tudo"/>
+		<IDS_Setting_Monitor_UseDefaultColor IDS="530081" En="Igualar as cores da Interface"/>
+		<IDS_Setting_Monitor_Reset IDS="530082" En="Redefinir"/>
+		<IDS_Setting_Monitor_Browse IDS="530007" En="Procurar"/>
+		<IDS_Setting_Monitor_Save IDS="531008" En="Salvar"/>
+		<IDS_Setting_Monitor_Undo IDS="531006" En="Desfazer"/>
+		<IDS_Setting_Monitor_Default IDS="531004" En="Padrão"/>
+		<IDS_Setting_Monitor_Close IDS="531002" En="Fechar"/>
+		<!-- Hotkey -->
+		<IDS_Setting_Hotkey_GENERALHOTKEYS IDS="550004" En="ATALHOS DA INTERFACE"/>
+		<IDS_Setting_Hotkey_TUNING_HOTKEYS IDS="550015" En="ATALHOS DE AJUSTE"/>
+		<IDS_Setting_Hotkey_Show_Main_Window IDS="550007" En="Mostrar janela principal"/>
+		<IDS_Setting_Hotkey_Show_Monitor_Window IDS="550011" En="Mostrar janela de monitoramento"/>
+		<IDS_Setting_Hotkey_Switch_OC_Mode IDS="550018" En="Mudar para Modo OC"/>
+		<IDS_Setting_Hotkey_Switch_default_mode IDS="550022" En="Mudar para Modo Padrão"/>
+		<IDS_Setting_Hotkey_Switch_silent_Mode IDS="550026" En="Mudar para Modo Silencioso"/>
+		<IDS_Setting_Hotkey_Core_Clock_Up IDS="550030" En="Aumentar clock GPU boost"/>
+		<IDS_Setting_Hotkey_Core_Clock_Down IDS="550034" En="Reduzir clock GPU boost"/>
+		<IDS_Setting_Hotkey_OSD_HOTKEYS IDS="550040" En="ATALHOS DO OSD"/>
+		<!-- Added 20220228  -->
+		<IDS_Setting_Hotkey_CLASSIC_STYLE IDS="5500400" En="ATALHOS APENAS PARA ESTILO CLÁSSICO"/>
+		<!-- Added 20220228  end-->
+		<IDS_Setting_Hotkey_All IDS="550043" En="Ativar/Desativar todos os painéis (Apenas Clássico)"/>
+		<IDS_Setting_Hotkey_Information IDS="550047" En="Ativar/Desativar painel de Informação (Apenas Clássico)"/>
+		<IDS_Setting_Hotkey_Memo IDS="550051" En="Ativar/Desativar painel de Lembrete (Apenas Clássico)"/>
+		<IDS_Setting_Hotkey_Photo IDS="550055" En="Ativar/Desativar painel de Foto (Apenas Clássico)"/>
+		<IDS_Setting_Hotkey_Screenshot IDS="550059" En="Fazer captura de tela"/>
+		<IDS_Setting_Hotkey_Switch_OSD IDS="550063" En="Ativar/Desativar OSD"/>
+		<IDS_Setting_Hotkey_Move_OSD_Up IDS="550067" En="Mover OSD para cima"/>
+		<IDS_Setting_Hotkey_Move_OSD_Down IDS="550071" En="Mover OSD para baixo"/>
+		<IDS_Setting_Hotkey_Move_OSD_Right IDS="550075" En="Mover OSD para a direita"/>
+		<IDS_Setting_Hotkey_Move_OSD_Left IDS="550079" En="Mover OSD para a esquerda"/>
+		<IDS_Setting_Hotkey_Timer IDS="550083" En="Iniciar/Parar/Zerar cronômetro (substitui o relógio)"/>
+		<IDS_Setting_Hotkey_StartFPS IDS="550087" En="Iniciar gravação de FPS"/>
+		<IDS_Setting_Hotkey_StopFPS IDS="550091" En="Parar gravação de FPS"/>
+		<IDS_Setting_Hotkey_Save IDS="551008" En="Salvar"/>
+		<IDS_Setting_Hotkey_Undo IDS="551006" En="Desfazer"/>
+		<IDS_Setting_Hotkey_Default IDS="551004" En="Padrão"/>
+		<IDS_Setting_Hotkey_Close IDS="551002" En="Fechar"/>
+		<!-- Import -->
+		<IDS_HOME_Import_Tuning_Profile IDS="62001" En="Perfil de Ajuste"/>
+		<IDS_HOME_Import_OSD_Profile IDS="62002" En="Perfil OSD"/>
+		<IDS_HOME_Import_Step_Choose_import IDS="60005" En="Escolha o arquivo do qual deseja importar:"/>
+		<IDS_HOME_Import_BROWSE IDS="60006" En="Procurar"/>
+		<IDS_HOME_Import_ProfilrCards IDS="60009" En="Escolha sua placa de vídeo:"/>
+		<!-- Added 20220228  -->
+		<IDS_HOME_Import_ChooseProfile IDS="60010" En="Selecione um arquivo de importação."/>
+		<IDS_HOME_Import_ChooseSetting IDS="60019" En="Selecione uma placa de vídeo para ver seus perfis."/>
+		<!-- Added 20220228  end-->
+		<IDS_HOME_Import_ProfilRcandidate IDS="60100" En="Selecione um arquivo para importar"/>
+		<IDS_HOME_Import_UseProfile IDS="60014" En="Escolha o perfil que você deseja importar:"/>
+		<IDS_HOME_Import_Choose_Setting IDS="60055" En="Placa de vídeo"/>
+		<IDS_HOME_Import_Choose_OSD_Profile IDS="60068" En=" Esolha o perfil que você deseja importar"/>
+		<IDS_HOME_Import_Browse IDS="60069" En="Procurar"/>
+		<IDS_HOME_Import_Chosen_OSD_Profile IDS="60072" En="Perfil OSD selecionado:"/>
+		<IDS_HOME_Import_Check_OSD_Profile IDS="60076" En="Ver uma prévia do perfil OSD"/>
+		<IDS_HOME_Import_Preview IDS="60077" En="Visualizar"/>
+		<IDS_HOME_Import_Cancel IDS="60080" En="Cancelar"/>
+		<IDS_HOME_Import_Import IDS="60082" En="Importar"/>
+		<IDS_Cancel1 IDS="208413" En="Cancelar"/>
+		<!-- Export -->
+		<IDS_HOME_Export_Step_One IDS="81000" En="Passo 1: "/>
+		<IDS_HOME_Export_Step_Two IDS="81001" En="Passo 2: "/>
+		<IDS_HOME_Export_OSDProfile_Step_One IDS="80022" En="Passo 1: "/>
+		<IDS_HOME_Export_OSDProfile_Step_Two IDS="80034" En="Passo 2: "/>
+		<IDS_HOME_Export_Tuning_Profile IDS="82001" En="Perfil de Ajuste"/>
+		<IDS_HOME_Export_OSD_Profile IDS="82002" En="Perfil OSD"/>
+		<IDS_HOME_Export_ChooseTheFile IDS="80003" En="Escolha o arquivo que deseja exportar:"/>
+		<IDS_HOME_Export_Tuning_Select_All IDS="80006" En="Selecionar Tudo"/>
+		<IDS_HOME_Export_Tuning_Clear_All IDS="80008" En="Limpar Tudo"/>
+		<IDS_HOME_Export_SaveFile IDS="80014" En="Escolha o local onde deseja salvar o arquivo:"/>
+		<IDS_HOME_Export_Tuning_Browse IDS="80018" En="Procurar"/>
+		<IDS_HOME_Export_OSDProfile_ChooseTheFile IDS="80023" En="Escolha o arquivo que deseja exportar:"/>
+		<IDS_HOME_Export_Select_All IDS="80026" En="Selecionar Tudo"/>
+		<IDS_HOME_Export_Clear_All IDS="80028" En="Limpar Tudo"/>
+		<IDS_HOME_Export_OSDProfile_SaveFile IDS="80035" En="Escolha o local onde deseja salvar o arquivo:"/>
+		<IDS_HOME_Emport_Browse IDS="80039" En="Procurar"/>
+		<IDS_HOME_Emport_Cancel IDS="83001" En="Cancelar"/>
+		<IDS_HOME_Emport_Export IDS="83002" En="Exportar"/>
+		<!-- Connect -->
+		<!-- Requires '\n' adjustment. -->
+		<IDS_HOME_Connect_Select_Game IDS="70004" En="Selecione um jogo ou aplicativo para usar\n a troca automática de perfil."/>
+		<!-- Requires '\n' adjustment. -->
+		<IDS_HOME_Connect_SelectTuringProfile IDS="70013" En="Selecione um perfil de ajuste para conectar\n ao jogo ou aplicativo escolhido."/>
+		<!-- Added 20220228  -->
+		<IDS_HOME_Connect_ChooseApplication IDS="70006" En="Escolha um jogo / aplicativo"/>
+		<IDS_HOME_Connect_ChooseProfile IDS="70015" En="Escolha um perfil de ajuste"/>
+		<IDS_HOME_Connect_ChooseOSDprofile IDS="70025" En="Escolha um perfil OSD"/>
+		<!-- Added 20220228  end-->
+		<IDS_HOME_Connect_Profile_Brief IDS="70101" En="Selecione um jogo ou aplicativo"/>
+		<IDS_HOME_Connect_Connect IDS="70019" En="Conectar"/>
+		<!-- Requires '\n' adjustment. -->
+		<IDS_HOME_Connect_SelectOSDProfile IDS="70023" En="Selecione um perfil OSD para conectar\n ao jogo ou aplicativo escolhido."/>
+		<IDS_HOME_Connect_OSD_Profile_Brief IDS="70102" En="Selecione um jogo ou aplicativo"/>
+		<IDS_HOME_Connect_Connect IDS="70029" En="Conectar"/>
+		<IDS_HOME_Connect_Browse IDS="71001" En="Procurar..."/>
+		<IDS_HOME_Connect_Cancel IDS="72003" En="Cancelar"/>
+		<IDS_HOME_Connect_Ok IDS="72005" En="OK"/>
+		<!-- Profiles -->
+		<IDS_Profiles_PROFILE IDS="40001" En="PERFIL"/>
+		<IDS_Profiles_Add_New IDS="41001" En="Adicionar Novo"/>
+		<IDS_Profiles_Import IDS="41002" En="Importar"/>
+		<IDS_Profiles_Export IDS="41003" En="Exportar"/>
+		<IDS_Profiles_Connect IDS="41004" En="Conectar"/>
+		<IDS_Profiles_Rename IDS="41005" En="Renomear"/>
+		<IDS_Profiles_Delete IDS="41006" En="Excluir"/>
+		<IDS_Profiles_Delete_Profile IDS="100000" En="Selecione o perfil que deseja excluir."/>
+		<IDS_Profiles_TEST IDS="100102" En="TESTAR"/>
+		<IDS_Profiles_GTIII_Cancel IDS="204002" En="Cancelar"/>
+		<!-- Added 20220228-->
+		<IDS_Profiles_GTIII_Save IDS="204003" En="Salvar"/>
+		<IDS_Profiles_Next_Cancel IDS="205002" En="Cancelar"/>
+		<IDS_Profiles_Next_Save IDS="205003" En="Salvar"/>
+		<!-- Added 20220228 end-->
+		<IDS_Profiles_GTIII_Import IDS="3300" En="Importar"/>
+		<IDS_Profiles_Chosen_OSD_profile IDS="60072" En="Perfil OSD selecionado:"/>
+		<IDS_Profiles_DETAIL_INFORMATION IDS="630004" En="PERFIL > INFORMAÇÕES DETALHADAS"/>
+		<IDS_Profiles_VGA_Card IDS="630008" En="Placa de vídeo:"/>
+		<IDS_Profiles_Choose_VGA_Card IDS="630011" En="Perfil atual da placa de vídeo:"/>
+		<IDS_Profiles_VGA_Information IDS="630016" En="Detalhes da placa de vídeo:"/>
+		<IDS_Profiles_Default_Value IDS="630017" En="Valor padrão"/>
+		<IDS_Profiles_Setting_Value IDS="630018" En="Valor ajustado"/>
+		<IDS_Profiles_Delete_profile IDS="206003" En="Excluir este perfil?"/>
+		<IDS_Profiles_Cancel IDS="3301" En="Cancelar"/>
+		<IDS_Profiles_OK IDS="3302" En="OK"/>
+		<!-- OC_Scanner -->
+		<IDS_OC_Scanner IDS="410001" En="OC Scanner"/>
+		<IDS_OC_Scanner_Third IDS="430001" En="OC Scanner"/>
+		<IDS_OC_Scanner_Four IDS="440001" En="OC Scanner"/>
+		<!-- Requires '\n' adjustment. -->
+		<IDS_OC_Scanner_performance IDS="410002" En="O OC Scanner otimiza automaticamente as velocidades de clock para fornecer o melhor desempenho para sua placa de vídeo. \nO algoritmo de overclocking da NVIDIA encontra compensações de frequência estáveis em múltiplos níveis de tensão, \ne o GPU Tweak III salva as configurações como um perfil de ajuste separado. \nEste processo pode levar até 30 minutos."/>
+		<IDS_OC_Scanner_Power_target IDS="410004" En="Alvo de potência:"/>
+		<IDS_OC_Scanner_Temperature_target IDS="410008" En="Alvo de temperatura:"/>
+		<IDS_OC_Scanner_Memory_clock IDS="410012" En="Compensação do clock da memória:"/>
+		<IDS_OC_Scanner_Voltage_target IDS="410016" En="Alvo de tensão:"/>
+		<!-- Added 20220228-->
+		<IDS_OC_Scanner_Second_Advanced_Setting IDS="420001" En="Configurações Avançadas"/>
+		<IDS_OC_Scanner_Second_Power_target IDS="420014" En="Alvo de potência:"/>
+		<IDS_OC_Scanner_Second_Temperature_target IDS="420005" En="Alvo de temperatura:"/>
+		<IDS_OC_Scanner_Second_Memory_clock IDS="420023" En="Compensação do clock da memória:"/>
+		<IDS_OC_Scanner_Second_Voltage_target IDS="420032" En="Alvo de tensão:"/>
+		<!-- Added 20220228 end-->
+		<IDS_OC_Scanner_CANCEL IDS="410021" En="CANCELAR"/>
+		<IDS_OC_Scanner_ADVANCE_SETTING IDS="410023" En="CONFIG. AVANÇADAS"/>
+		<IDS_OC_Scanner_START IDS="410025" En="INICIAR"/>
+		<IDS_OC_Scanner_BACK IDS="421003" En="VOLTAR"/>
+		<IDS_OC_Scanner_SAVE IDS="421005" En="SALVAR"/>
+		<IDS_OC_Scanner_Third_Scanning IDS="430004" En="Escaneando..."/>
+		<IDS_OC_Scanner_Third_try_again IDS="430008" En="Por favor, tente novamente."/>
+		<IDS_OC_Scanner_Third_CANCEL IDS="431003" En="CANCELAR"/>
+		<IDS_OC_Scanner_Third_OK IDS="431004" En="OK"/>
+		<IDS_OC_Scanner_Third_NO IDS="431005" En="NÃO"/>
+		<IDS_OC_Scanner_Third_YES IDS="431007" En="SIM"/>
+		<!-- Requires '\n' adjustment. -->
+		<IDS_OC_Scanner_CloseOCScanner IDS="430009" En="Fechar o OC Scanner encerrará o processo e todas as configurações serão perdidas. \nDeseja finalizar o processo agora?"/>
+		<IDS_OC_Scanner_APPLY IDS="443005" En="APLICAR"/>
+		<IDS_OC_Scanner_Results IDS="442002" En="Resultados de Tensão-Frequência do OC Scanner"/>
+		<!-- Added 20220228-->
+		<IDS_OC_Scanner_GPU_OC_Offset IDS="440007" En="Compensação média do clock da GPU: "/>
+		<!-- Added 20220228 end-->
+		<IDS_OC_Scanner_MEM_OC_Offset IDS="440012" En="Compensação média do clock da memória: "/>
+		<!-- VF Point -->
+		<IDS_GPU_Boost_dlg_OCScanner IDS="243036" En="OC Scanner"/>
+		<IDS_GPU_Boost_dlg_START IDS="243071" En="INICIAR"/>
+		<IDS_GPU_Boost_dlg_PerClick IDS="2430361" En="Tamanho do passo de movimento:"/>
+		<IDS_GPU_Boost_dlg_PerClick_10MHz IDS="#######" En="Mover pontos para cima 10MHz"/>
+		<IDS_GPU_Boost_dlg_PerClick_Down_1MHz IDS="#######" En="Mover pontos para baixo 1MHz"/>
+		<IDS_GPU_Boost_dlg_PerClick_Down_10MHz IDS="#######" En="Mover pontos para baixo 10MHz"/>
+		<IDS_GPU_Boost_dlg_CONTROLS_HOTKEYS IDS="243006" En="CONTROLES / ATALHOS"/>
+		<IDS_GPU_Boost_dlg_CONTROLS_HOTKEYS IDS="243007" En="CONTROLES / ATALHOS"/>
+		<IDS_GPU_Boost_dlg_OffsetValue IDS="242005" En="Compensação do clock da GPU:"/>
+		<IDS_GPU_Boost_dlg_MovePoints IDS="2420050" En="Mover pontos"/>
+		<IDS_GPU_Boost_dlg_DEFAULT_Tip IDS="243060" HasTip="Reverte a curva VF aos padrões de fábrica." Tip="Reverte a curva VF aos padrões de fábrica."/>
+		<IDS_GPU_Boost_dlg_DEFAULT IDS="243061" En="PADRÃO"/>
+		<IDS_GPU_Boost_dlg_OCSCAN_Tip IDS="243062" HasTip="Reverte a curva VF para o resultado mais recente do \nOC Scanner." Tip="Reverte a curva VF para o resultado mais recente do \nOC Scanner."/>
+		<IDS_GPU_Boost_dlg_OCSCAN IDS="243063" En="OC SCANNER"/>
+		<IDS_GPU_Boost_dlg_DRIVERPROFILE_Tip IDS="243064" HasTip="Reverte a curva VF para a curva aplicada mais recentemente. Quando aplicada, uma curva VF é salva no driver Nvidia, de modo que pode ser usada sem executar o GPU Tweak III." Tip="Reverte a curva VF para a curva aplicada mais recentemente. Quando aplicada, uma curva VF é salva no driver Nvidia, de modo que pode ser usada sem executar o GPU Tweak III."/>
+		<IDS_GPU_Boost_dlg_DRIVERPROFILE IDS="243065" En="PERFIL DO DRIVER"/>
+		<IDS_GPU_Boost_dlg_PREVSETTING_Tip IDS="243066" HasTip="Reverte a curva VF para a última configuração antes de fechar \nesta janela. Esta opção é melhor utilizada para recuperar uma \ncurva se o programa travar durante o teste." Tip="Reverte a curva VF para a última configuração antes de fechar \nesta janela. Esta opção é melhor utilizada para recuperar uma \ncurva se o programa travar durante o teste."/>
+		<IDS_GPU_Boost_dlg_PREVSETTING IDS="243067" En="CONFIGURAÇÃO ANTERIOR"/>
+		<IDS_GPU_Boost_dlg_SelectionControls IDS="243013" En="Controles de Seleção"/>
+		<IDS_GPU_Boost_dlg_SinglePoint IDS="243016" En="Selecionar ponto único:"/>
+		<IDS_GPU_Boost_dlg_ClickPoint IDS="244000" En="Clicar em um ponto"/>
+		<IDS_GPU_Boost_dlg_MultiplePoints IDS="243017" En="Selecionar vários pontos:"/>
+		<IDS_GPU_Boost_dlg_ClickDrag IDS="244001" En="Clicar e arrastar"/>
+		<IDS_GPU_Boost_dlg_Deselect IDS="243018" En="Desmarcar:"/>
+		<IDS_GPU_Boost_dlg_RightClick IDS="244002" En="Clique com o botão direito"/>
+		<IDS_GPU_Boost_dlg_NextPoint IDS="243075" En="Selecionar próximo ponto:"/>
+		<IDS_GPU_Boost_dlg_PreviousPoint IDS="243052" En="Selecionar ponto anterior:"/>
+		<IDS_GPU_Boost_dlg_TuningControls IDS="243020" En="Controles de Ajuste"/>
+		<IDS_GPU_Boost_dlg_MovePointsOne IDS="243037" En="Mover pontos 1 MHz:"/>
+		<IDS_GPU_Boost_dlg_MovePointsTen IDS="243072" En="Mover pontos um passo:"/>
+		<IDS_GPU_Boost_dlg_PointFreely IDS="243041" En="Mover pontos livremente:"/>
+		<IDS_GPU_Boost_dlg_ClickAndDrag IDS="243042" En="Clicar e arrastar"/>
+		<IDS_GPU_Boost_dlg_AlignPoints IDS="243045" En="Alinhar pontos para cima/baixo:"/>
+		<IDS_GPU_Boost_dlg_RotatePoints IDS="243049" En="Girar pontos 1°:"/>
+		<IDS_GPU_Boost_dlg_RotateFreely IDS="243053" En="Girar pontos livremente:"/>
+		<IDS_GPU_Boost_dlg_ShiftClick IDS="243054" En="Shift + clicar e arrastar"/>
+		<IDS_GPU_Boost_dlg_Lock_Unlock IDS="243057" En="Bloquear/desbloquear Tensão:"/>
+		<IDS_GPU_Boost_dlg_SelectAll IDS="2430570" En="Selecionar tudo:"/>
+		<IDS_GPU_Boost_dlg_Undo IDS="243076" En="Desfazer:"/>
+		<IDS_GPU_Boost_dlg_Redo IDS="2430760" En="Refazer:"/>
+		<IDS_GPU_Boost_dlg_CLOSE IDS="240009" En="FECHAR"/>
+		<IDS_GPU_Boost_dlg_DEFAULT IDS="240011" En="PADRÃO"/>
+		<IDS_GPU_Boost_dlg_UNDO IDS="240013" En="DESFAZER"/>
+		<IDS_GPU_Boost_dlg_Apply IDS="240015" En="APLICAR"/>
+		<IDS_Apply1 IDS="208410" En="Aplicar"/>
+		<IDS_GPU_Boost_dlg_SAVE IDS="2400130" En="SALVAR"/>
+		<IDS_GPU_Boost_dlg_SAVE_AS IDS="2400150" En="SALVAR COMO"/>
+		<IDS_GPU_Boost_dlg_Move_Points IDS="242004011" En="Passe o cursor sobre um ícone para ver seu uso"/>
+		<IDS_GPU_Boost_dlg_Points_Up IDS="242004012" En="Alinhar pontos para cima"/>
+		<IDS_GPU_Boost_dlg_Points_Down IDS="242004013" En="Alinhar pontos para baixo"/>
+		<IDS_GPU_Boost_dlg_Move_Up IDS="242004014" En="Mover Pontos Para Cima"/>
+		<IDS_GPU_Boost_dlg_Move_Down IDS="242004015" En="Mover pontos para baixo"/>
+		<IDS_GPU_Boost_dlg_Clockwise_Point IDS="242004016" En="Girar pontos no sentido horário"/>
+		<IDS_GPU_Boost_dlg_Anticlockwise_Point IDS="242004017" En="Girar pontos no sentido anti-horário"/>
+		<IDS_GPU_Boost_dlg_Redo IDS="242004018" En="Refazer"/>
+		<IDS_GPU_Boost_dlg_Undo IDS="242004019" En="Desfazer"/>
+		<IDS_GPU_Boost_dlg_Lock_Unlock IDS="242004020" En="Bloquear/desbloquear tensão"/>
+		<IDS_GPU_Boost_dlg_Lock_Unlock IDS="242004021" En="Alinhar a"/>
+		<IDS_GPU_Boost_dlg_Move_Points IDS="242004022" En="Mover pontos"/>
+		<IDS_GPU_Boost_dlg_Rotate IDS="242004023" En="Girar"/>
+		<IDS_GPU_Boost_dlg_Redo IDS="242004024" En="Refazer"/>
+		<IDS_GPU_Boost_dlg_Undo IDS="242004025" En="Desfazer"/>
+		<!-- Fan UserDefine -->
+		<IDS_UserDefine_dlg_SaveScreen IDS="215007" En="Você quer sair desta tela sem salvar?"/>
+		<IDS_UserDefine_dlg_Save IDS="216006" En="Configurações salvas."/>
+		<IDS_UserDefine_dlg_Detecting IDS="214006" En="Detectando..."/>
+		<IDS_UserDefine_dlg_WorkingRange IDS="214012" En="Faixa operacional do fan externa:"/>
+		<IDS_UserDefine_dlg_FanCancel IDS="2040020" En="Cancelar"/>
+		<IDS_UserDefine_dlg_FanSave IDS="2040030" En="Salvar"/>
+		<IDS_UserDefine_dlg_Fan_1_SETTING IDS="220001" En="CONFIGURAÇÕES DE VENTOINHA DEFINIDAS PELO USUÁRIO"/>
+		<IDS_UserDefine_dlg_Fan_1_Period IDS="220003" En="Período de atualização da veloc. do fan:"/>
+		<IDS_UserDefine_dlg_Fan_1_TemperatureHysteresis IDS="220011" En="Histerese de temperatura:"/>
+		<IDS_UserDefine_dlg_Fan_1_CLOSE IDS="220021" En="FECHAR"/>
+		<IDS_UserDefine_dlg_Fan_1_DEFAULT IDS="220023" En="PADRÃO"/>
+		<IDS_UserDefine_dlg_Fan_1_UNDO IDS="220025" En="DESFAZER"/>
+		<IDS_UserDefine_dlg_Fan_1_SAVE IDS="220027" En="SALVAR"/>
+		<IDS_UserDefine_dlg_Fan_2_SETTING IDS="230001" En="CONFIGURAÇÕES DE VENTOINHA DEFINIDAS PELO USUÁRIO"/>
+		<IDS_UserDefine_dlg_Fan_2_Period IDS="230003" En="Período de atualização da veloc. do fan:"/>
+		<IDS_UserDefine_dlg_Fan_2_TemperatureHysteresis IDS="230011" En="Histerese de temperatura:"/>
+		<IDS_UserDefine_dlg_Fan_2_Fan_Speed IDS="232001" En="Veloc. do Fan (%)"/>
+		<IDS_UserDefine_dlg_Fan_2_FAN_1_FAN_3 IDS="232002" En="VENTOINHA 1 / VENTOINHA 3"/>
+		<IDS_UserDefine_dlg_Fan_2_Temp IDS="232003" En="Temp (°C)"/>
+		<IDS_UserDefine_dlg_Fan_2_FAN_2 IDS="232102" En="VENTOINHA 2"/>
+		<!-- Added 20220228-->
+		<IDS_UserDefine_dlg_Fan_2_Fan_Speed_Second IDS="232101" En="Veloc. do Fan (%)"/>
+		<IDS_UserDefine_dlg_Fan_2_Temp_Second IDS="232103" En="Temp (°C)"/>
+		<IDS_UserDefine_dlg_Fan_3_Fan_Speed_Second IDS="232201" En="Veloc. do Fan (%)" />
+		<IDS_UserDefine_dlg_Fan_3_Temp_Second IDS="232203" En="Temp (°C)" />
+		<IDS_UserDefine_dlg_Fan_4_Fan_Speed_Second IDS="232301" En="Veloc. do Fan (%)" />
+		<IDS_UserDefine_dlg_Fan_4_Temp_Second IDS="232303" En="Temp (°C)" />
+		<!-- Added 20220228 end-->
+		<IDS_UserDefine_dlg_Fan_2_CLOSE IDS="230022" En="FECHAR"/>
+		<IDS_UserDefine_dlg_Fan_2_DEFAULT IDS="230024" En="PADRÃO"/>
+		<IDS_UserDefine_dlg_Fan_2_UNDO IDS="230026" En="DESFAZER"/>
+		<IDS_UserDefine_dlg_Fan_2_SAVE IDS="230028" En="SALVAR"/>
+		<IDS_UserDefine_dlg_ExtFan_SETTING IDS="250001" En="CONFIGURAÇÕES DA VENTOINHA EXTERNA"/>
+		<IDS_UserDefine_dlg_ExtFan_Period IDS="250003" En="Período de atualização da veloc. do fan:"/>
+		<IDS_UserDefine_dlg_ExtFan_TemperatureHysteresis IDS="250011" En="Histerese de temperatura:"/>
+		<IDS_UserDefine_dlg_ExtFan_Based_On IDS="250019" En="Processador selecionado para \ncontrole de temperatura do fan externa:" HasTip="Se GPU ou CPU for selecionado, os fans externos controlarão a velocidade baseando-se apenas na temperatura desse processador. Se AMBOS for selecionado, a velocidade será baseada no ponto médio entre a temperatura dos processadores." Tip="Se GPU ou CPU for selecionado, os fans externos controlarão a velocidade baseando-se apenas na temperatura desse processador. Se AMBOS for selecionado, a velocidade será baseada no ponto médio entre a temperatura dos processadores."/>
+		<IDS_UserDefine_dlg_ExtFan_Auto_Calibration IDS="250023" En="Calibração Automática do Fan"/>
+		<IDS_UserDefine_dlg_ExtFan_START IDS="250024" En="INICIAR"/>
+		<IDS_UserDefine_dlg_ExtFan_Speed IDS="252001" En="Veloc. do Fan Ext. (%)"/>
+		<IDS_UserDefine_dlg_ExtFan_Temp IDS="252003" En="Temp (°C)"/>
+		<IDS_UserDefine_dlg_ExtFan_CLOSE IDS="250029" En="FECHAR"/>
+		<IDS_UserDefine_dlg_ExtFan_DEFAULT IDS="250031" En="PADRÃO"/>
+		<IDS_UserDefine_dlg_ExtFan_UNDO IDS="250033" En="DESFAZER"/>
+		<IDS_UserDefine_dlg_ExtFan_SAVE IDS="250035" En="SALVAR"/>
+		<IDS_UserDefine_dlg_ExtFan_GPU IDS="300006" En="GPU"/>
+		<IDS_UserDefine_dlg_ExtFan_CPU IDS="300007" En="CPU"/>
+		<IDS_UserDefine_dlg_ExtFan_BOTH IDS="300008" En="AMBOS" />
+		<!-- OSD -->
+		<IDS_OSD_PROFILE IDS="620004" En="PERFIL OSD"/>
+		<IDS_OSD_STYLE IDS="620010" En="ESTILO GPU TWEAK III"/>
+		<IDS_OSD_CLASSICSTYLE IDS="620012" En="ESTILO CLÁSSICO"/>
+    <IDS_OSD_OSDWIZARD IDS="620041" En="ASSISTENTE OSD (BETA)"/>
+		<IDS_OSD_SCREEN IDS="620014" En="TELA"/>
+		<IDS_OSD_ScreenRatio IDS="620019" En="Proporção da tela:"/>
+		<IDS_OSD_InputCustom IDS="620025" En="Resolução da tela:"/>
+		<!-- Added 20220228-->
+		<IDS_OSD_ChoosePreview_Tip IDS="620030" HasTip="Se uma imagem for selecionada, ao usar o botão Visualizar, o fundo de visualização usará essa imagem. É recomendado fazer uma captura de tela de um jogo ou aplicativo que você usa com frequência, para que você possa personalizar seu OSD de acordo com os elementos da sua interface." Tip="Se uma imagem for selecionada, ao usar o botão Visualizar, o fundo de visualização usará essa imagem. É recomendado fazer uma captura de tela de um jogo ou aplicativo que você usa com frequência, para que você possa personalizar seu OSD de acordo com os elementos da sua interface."/>
+		<IDS_OSD_ChoosePreview IDS="620031" En="Selecione a imagem de fundo para usar com a visualização:" HasTip="Se uma imagem for selecionada, ao usar o botão Visualizar, o fundo de visualização usará essa imagem. É recomendado fazer uma captura de tela de um jogo ou aplicativo que você usa com frequência, para que você possa personalizar seu OSD de acordo com os elementos da sua interface." Tip="Se uma imagem for selecionada, ao usar o botão Visualizar, o fundo de visualização usará essa imagem. É recomendado fazer uma captura de tela de um jogo ou aplicativo que você usa com frequência, para que você possa personalizar seu OSD de acordo com os elementos da sua interface."/>
+		<!-- Added 20220228 end-->
+		<IDS_OSD_Browse IDS="620032" En="Procurar"/>
+		<IDS_OSD_INFORMATION IDS="620035" En="MONITORAMENTO"/>
+		<IDS_OSD_GPUClock IDS="620301" En="Clock da GPU (MHz)"/>
+		<IDS_OSD_GPUVoltage IDS="620302" En="Tensão da GPU (mV)"/>
+		<IDS_OSD_GPUFanSpeed IDS="620303" En="Veloc. do Fan da GPU (RPM)"/>
+		<IDS_OSD_MemoryClock IDS="620304" En="Clock da Memória (MHz)"/>
+		<IDS_OSD_FrameRate IDS="620305" En="Taxa de Quadros (FPS)"/>
+		<IDS_OSD_GPUTemperature IDS="620306" En="Temperatura da GPU (°C)"/>
+		<IDS_OSD_PowerTarget IDS="620307" En="Status do Alvo de Potência (%)"/>
+		<IDS_OSD_MemoryTemperature IDS="620308" En="Temperatura da Memória (°C)"/>
+		<IDS_OSD_PowerTemp IDS="620309" En="Temperatura de Potência (°C)"/>
+		<IDS_OSD_BoardTemp IDS="620310" En="Temperatura da Placa (°C)"/>
+		<IDS_OSD_GPUUsage IDS="620311" En="Uso da GPU (%)"/>
+		<IDS_OSD_VIDUsage IDS="620312" En="Uso de VID (%)"/>
+		<IDS_OSD_MemoryCurrent IDS="620313" En="Corrente da Memória (mA)"/>
+		<IDS_OSD_MemoryVoltage IDS="620314" En="Tensão da Memória (mV)"/>
+		<IDS_OSD_PEX_VDD IDS="620315" En="PEX_VDD (mV)"/>
+		<IDS_OSD_VDDCIVoltage IDS="620316" En="Tensão VDDCI (mV)"/>
+		<IDS_OSD_VCCVoltage IDS="620317" En="Tensão VCC (mV)"/>
+		<IDS_OSD_PCIE12VVoltage IDS="620318" En="Tensão PCIE12V (mV)"/>
+		<IDS_OSD_GPUConsumption IDS="620319" En="Consumo da GPU (W)"/>
+		<IDS_OSD_MemoryConsumption IDS="620320" En="Consumo de Memória (W)"/>
+		<IDS_OSD_TotalBoardConsumption IDS="620321" En="Consumo Total da Placa (W)"/>
+		<IDS_OSD_GPUFanDuty IDS="620322" En="Veloc. do Fan da GPU (%)"/>
+		<IDS_OSD_RightFanSpeed IDS="620323" En="Veloc. do Fan Direito (%)"/>
+		<IDS_OSD_RightFanRPM IDS="620324" En="Veloc. do Fan Direito (RPM)"/>
+		<IDS_OSD_MemoryUsage IDS="620325" En="Uso da Memória (MB)"/>
+		<IDS_OSD_LoadLine IDS="620326" En="Linha de Carga (%)"/>
+		<IDS_OSD_VRMClock IDS="620327" En="Clock VRM (KHz)"/>
+		<IDS_OSD_VDDCIPowerTemp IDS="620328" En="Temp. de Potência VDDCI (°C)"/>
+		<IDS_OSD_MemoryPowerTemp IDS="620329" En="Temp. de Potência de Memória (°C)"/>
+		<IDS_OSD_VDDCICurrent IDS="620330" En="Corrente VDDCI (mA)"/>
+		<IDS_OSD_VDDCCurrent IDS="620331" En="Corrente VDDC (mA)"/>
+		<IDS_OSD_95Voltage IDS="620332" En="Tensão 0.95V (mA)"/>
+		<IDS_OSD_33Voltage IDS="620333" En="Tensão 3.3V (mA)"/>
+		<IDS_OSD_18Voltage IDS="620334" En="Tensão 1.8V (mA)"/>
+		<IDS_OSD_ExtFanSpeed IDS="620335" En="Veloc. do Fan Externo (RPM)"/>
+		<IDS_OSD_ExtFan1Speed IDS="620336" En="Veloc. Fan Ext. 1 (RPM)"/>
+		<IDS_OSD_ExtFan2Speed IDS="620337" En="Veloc. Fan Ext. 2 (RPM)"/>
+		<IDS_OSD_NormalizedTotalPower IDS="620338" En="Potência Total Normalizada (W)"/>
+		<IDS_OSD_XGFANSpeed IDS="620339" En="Veloc. do Fan XG Station (RPM)"/>
+		<IDS_OSD_XGSTATIONFAN1Speed IDS="620340" En="Veloc. Fan 1 XG Station (RPM)"/>
+		<IDS_OSD_XGFAN2Speed IDS="620341" En="Veloc. Fan 2 XG Station (RPM)"/>
+		<IDS_OSD_XGFAN3Speed IDS="620342" En="Veloc. Fan 3 XG Station (RPM)"/>
+		<IDS_OSD_Left-rightFanSpeed IDS="620343" En="Veloc. do Fan Esq-Dir (RPM)"/>
+		<IDS_OSD_Left-rightFanDuty IDS="620344" En="Ciclo do Fan Esq-Dir (%)"/>
+		<IDS_OSD_MiddleFanDuty IDS="620345" En="Ciclo do Fan Central (%)"/>
+		<IDS_OSD_LeftFanDuty IDS="620346" En="Ciclo do Fan Esquerdo (%)"/>
+		<IDS_OSD_Ext.FanDuty IDS="620347" En="Ciclo do Fan Externo (%)"/>
+		<IDS_OSD_GPUCurrent IDS="620348" En="Corrente da GPU (mA)"/>
+		<IDS_OSD_FBUsage IDS="620349" En="Uso de FB (%)"/>
+		<IDS_OSD_ProcessorClock IDS="620350" En="Clock do Processador (MHz)"/>
+		<IDS_OSD_VDDCPowerTemp IDS="620351" En="Temp. de Potência VDDC (°C)"/>
+		<IDS_OSD_TotalPower IDS="620352" En="Potência Total (%)"/>
+		<IDS_OSD_DisplayRefreshRate IDS="620353" En="Taxa de Atualização da Tela (Hz)"/>
+		<IDS_OSD_GPUPower IDS="620354" En="Potência da GPU (%)"/>
+		<IDS_OSD_SOCVRMTemp IDS="620355" En="Temperatura SOC VRM (°C)"/>
+		<IDS_OSD_JunctionTemp IDS="620356" En="Temperatura de Junção (°C)"/>
+		<IDS_OSD_MemoryTemp IDS="620357" En="Temperatura da Memória (°C)"/>
+		<IDS_OSD_GPUVRMTemp IDS="620358" En="Temperatura da GPU VRM (°C)"/>
+		<IDS_OSD_VDDVRMTemp IDS="620359" En="Temperatura VDD VRM (°C)"/>
+		<IDS_OSD_Mem1VRMTemp IDS="620360" En="Temperatura Mem1 VRM (°C)"/>
+		<IDS_OSD_FPS IDS="620361" En="FPS"/>
+		<IDS_OSD_SystemTime IDS="620362" En="Hora do Sistema"/>
+		<IDS_OSD_CPUClock IDS="620363" En="Clock da CPU (MHz)"/>
+		<IDS_OSD_CPUTemperature IDS="620364" En="Temperatura da CPU (°C)"/>
+		<IDS_OSD_CPUUsage IDS="620365" En="Uso da CPU (%)"/>
+		<IDS_OSD_Resolution IDS="620366" En="Resolução"/>
+		<IDS_OSD_INFOTEXT IDS="620505" En="OPÇÕES DE TEXTO DE INFORM."/>
+		<IDS_OSD_ApplyToAll IDS="620511" En="Aplicar a todos"/>
+		<IDS_OSD_ShowAll IDS="620513" En="Mostrar tudo"/>
+		<IDS_OSD_Showless IDS="620515" En="Mostrar menos"/>
+		<IDS_OSD_TitleFont IDS="620518" En="Fonte do Título"/>
+		<IDS_OSD_ValueFont IDS="620519" En="Fonte do Valor"/>
+		<IDS_OSD_UnitFont IDS="620520" En="Fonte da Unidade"/>
+		<IDS_OSD_TitleFont IDS="620527" En="Fonte"/>
+		<IDS_OSD_TitleColor IDS="620539" En="Cor"/>
+		<IDS_OSD_Opacity IDS="620543" En="Opacidade"/>
+		<IDS_OSD_ValueFont IDS="620549" En="Fonte"/>
+		<IDS_OSD_Title IDS="6205261" En="Título"/>
+		<IDS_OSD_Value IDS="6205481" En="Valor"/>
+		<IDS_OSD_Unit IDS="6205701" En="Unidade"/>
+		<IDS_OSD_1st_Area IDS="6206571" En="Área 1"/>
+		<IDS_OSD_2nd_Area IDS="6206671" En="Área 2"/>
+		<IDS_OSD_3rd_Area IDS="6206771" En="Área 3"/>
+		<!-- Added 20220228-->
+		<IDS_OSD_Alignment_Second IDS="620556" En="Alinhamento"/>
+		<IDS_OSD_Value_Color IDS="620561" En="Cor"/>
+		<IDS_OSD_Opacity_Second IDS="620565" En="Opacidade"/>
+		<IDS_OSD_UnitFont IDS="620571" En="Fonte"/>
+		<IDS_OSD_Alignment_Third IDS="620578" En="Alinhamento"/>
+		<IDS_OSD_Unit_Color IDS="620583" En="Cor"/>
+		<IDS_OSD_Opacity_Third IDS="620587" En="Opacidade"/>
+		<IDS_OSD_TEXT_EFFECTS IDS="620593" En="EFEITOS DE TEXTO"/>
+		<IDS_OSD_Browse_Second IDS="600504" En="Procurar"/>
+		<IDS_OSD_Browse_Three IDS="620093" En="Procurar"/>
+		<IDS_OSD_Opacity_Five IDS="620662" En="Opacidade"/>
+		<IDS_OSD_Opacity_Six IDS="620672" En="Opacidade"/>
+		<IDS_OSD_Opacity_Seven IDS="620682" En="Opacidade"/>
+		<IDS_OSD_Opacity_Eight IDS="620710" En="Opacidade"/>
+		<IDS_OSD_Opacity_Nine IDS="620729" En="Opacidade"/>
+		<IDS_OSD_Opacity_Ten IDS="620768" En="Opacidade"/>
+		<IDS_OSD_Opacity_Ele IDS="620787" En="Opacidade"/>
+		<IDS_OSD_Opacity_Tiw IDS="620806" En="Opacidade"/>
+		<!-- Added 20220228 end-->
+		<IDS_OSD_Alignment IDS="620534" En="Alinhamento"/>
+		<IDS_OSD_Size IDS="620574" En="Tamanho"/>
+		<IDS_OSD_Scale IDS="620598" En="Escala"/>
+		<IDS_OSD_EnableText IDS="620604" En="Habilitar sombra do texto"/>
+		<IDS_OSD_EnableNeon IDS="620608" En="Habilitar brilho de neon"/>
+		<IDS_OSD_BACKGROUNDEFFECT IDS="620612" En="EFEITOS DE FUNDO"/>
+		<IDS_OSD_BackgroundPanel IDS="620618" En="Painel de fundo"/>
+		<!-- Added 20220228-->
+		<IDS_OSD_Size_Second IDS="620706" En="Tamanho"/>
+		<IDS_OSD_Opacity_Four IDS="620621" En="Opacidade"/>
+		<!-- Added 20220228 end-->
+		<IDS_OSD_PanelColor IDS="620627" En="Cor"/>
+		<IDS_OSD_Padding IDS="620631" En="Preenchimento"/>
+		<IDS_OSD_Classic_Style_INFOTEXT IDS="620639" En="OPÇÕES DE TEXTO DE INFORMAÇÃO" />
+		<IDS_OSD_FstAreaFont IDS="620649" En="Fonte da Área 1"/>
+		<IDS_OSD_SstAreaFont IDS="620650" En="Fonte da Área 2"/>
+		<IDS_OSD_TstAreaFont IDS="620651" En="Fonte da Área 3"/>
+		<IDS_OSD_FstAreaColor IDS="620658" En="Cor"/>
+		<IDS_OSD_SstAreaColor IDS="620668" En="Cor"/>
+		<IDS_OSD_TstAreaColor IDS="620678" En="Cor"/>
+		<IDS_OSD_MEMO IDS="620690" En="LEMBRETE"/>
+		<IDS_OSD_FrameSize IDS="620697" En="Tamanho do quadro"/>
+		<IDS_OSD_FontColor IDS="620702" En="Cor"/>
+		<IDS_OSD_PICTURE IDS="620716" En="IMAGEM"/>
+		<IDS_OSD_PictureSize IDS="620723" En="Tamanho do quadro da imagem"/>
+		<IDS_OSD_TEXTEFFECTS IDS="620735" En="EFEITOS DE TEXTO"/>
+		<IDS_OSD_TextShadowOpacity IDS="620741" En="Opacidade da sombra do texto"/>
+		<IDS_OSD_EnableNeonGlow IDS="620747" En="Habilitar brilho de neon"/>
+		<IDS_OSD_PANELSTYLE IDS="620752" En="ESTILO DO PAINEL"/>
+		<!-- Added 20220228-->
+		<IDS_OSD_INFORMATION IDS="620759" En="INFORMAÇÃO"/>
+		<IDS_OSD_MEMO_Second IDS="620778" En="LEMBRETE"/>
+		<IDS_OSD_PanelColor_Second IDS="620783" En="Cor"/>
+		<IDS_OSD_PanelEffect_Third IDS="620799" En="Efeitos"/>
+		<IDS_OSD_PanelColor_Third IDS="620802" En="Cor"/>
+		<IDS_OSD_Padding_Second IDS="620791" En="Preenchimento"/>
+		<IDS_OSD_Padding_Third IDS="620810" En="Preenchimento"/>
+		<!-- Added 20220228 end-->
+		<IDS_OSD_PanelEffect IDS="620761" En="Efeitos"/>
+		<IDS_OSD_PanelColor IDS="620764" En="Cor"/>
+		<IDS_OSD_Padding IDS="620772" En="Preenchimento"/>
+		<IDS_OSD_PanelEffect IDS="620780" En="Efeitos"/>
+		<IDS_OSD_PICTURE IDS="620797" En="IMAGEM"/>
+		<IDS_OSD_POSITION IDS="600263" En="POSIÇÃO"/>
+		<IDS_OSD_InformationPanel IDS="600282" En="Painel de informação"/>
+		<IDS_OSD_BLACKLIST IDS="600297" En="LISTA NEGRA"/>
+		<IDS_OSD_BrowseFromFolder IDS="600503" En="Procurar na pasta"/>
+		<IDS_OSD_BrowseFromFolderOne IDS="620092" En="Procurar na pasta"/>
+		<IDS_OSD_HOTKEY IDS="600306" En="ATALHO"/>
+		<IDS_OSD_SHOW_HIDE IDS="600311" En="MOSTRAR/OCULTAR OSD"/>
+		<IDS_OSD_OSDScreenshot IDS="600327" En="Captura de Tela do OSD"/>
+
+    <IDS_OSD_customstyle_Background_image IDS="620052" En="Imagem de fundo"/>
+    <IDS_OSD_customstyle_OVERVIEW IDS="620056" En="Visão Geral"/>
+
+		<IDS_OSD_WATERMARK_Test IDS="621055" En="Teste de MARCA D'ÁGUA ACIMA" />
+		<IDS_OSD_SYSTEMINFO_Test IDS="621007" En="Teste de MARCA D'ÁGUA ABAIXO" />
+		<IDS_OSD_COMBOX_FONT1 IDS="621016" En="" />
+		<IDS_OSD_COMBOX_FONT2 IDS="621064" En="" />
+		<IDS_OSD_COMBOX_FONT3 IDS="620528" En="" />
+		<IDS_OSD_COMBOX_FONT4 IDS="620550" En="" />
+		<IDS_OSD_COMBOX_FONT5 IDS="620572" En="" />
+
+		<!-- WATERMARK -->
+		<IDS_OSD_WATERMARK_ABOVE IDS="621003" En="MARCA D'ÁGUA ACIMA DOS DADOS" />
+		<IDS_OSD_WATERMARK_Watermarktext IDS="621013" En="Texto da marca d'água" />
+		<IDS_OSD_WATERMARK_Font IDS="621015" En="Fonte" />
+		<IDS_OSD_WATERMARK_Size IDS="621018" En="Tamanho" />
+		<IDS_OSD_WATERMARK_Alignment IDS="621022" En="Alinhamento" />
+		<IDS_OSD_WATERMARK_Color IDS="621027" En="Cor" />
+		<IDS_OSD_WATERMARK_Opacity IDS="621031" En="Opacidade" />
+		<IDS_OSD_WATERMARK_Background IDS="621037" En="Painel de fundo" />
+		<IDS_OSD_WATERMARK_Panel IDS="621039" En="Painel" />
+		<IDS_OSD_WATERMARK_Panel_color IDS="621042" En="Cor do painel" />
+		<IDS_OSD_WATERMARK_Opacity IDS="621046" En="Opacidade" />
+		<IDS_OSD_WATERMARK_BELOW IDS="621051" En="MARCA D'ÁGUA ABAIXO DOS DADOS" />
+		<IDS_OSD_WATERMARK_Watermarktext IDS="621061" En="Texto da marca d'água" />
+		<IDS_OSD_WATERMARK_Font IDS="621063" En="Fonte" />
+		<IDS_OSD_WATERMARK_Size IDS="621066" En="Tamanho" />
+		<IDS_OSD_WATERMARK_Alignment IDS="621070" En="Alinhamento" />
+		<IDS_OSD_WATERMARK_Color IDS="621075" En="Cor" />
+		<IDS_OSD_WATERMARK_Opacity IDS="621079" En="Opacidade" />
+		<IDS_OSD_WATERMARK_Background IDS="621085" En="Painel de fundo" />
+		<IDS_OSD_WATERMARK_Panel IDS="621087" En="Painel" />
+		<IDS_OSD_WATERMARK_Panel_color IDS="621090" En="Cor do painel" />
+		<IDS_OSD_WATERMARK_Opacity IDS="621094" En="Opacidade" />
+
+		<IDS_OSD_FPS_BENCHMARK_SAVE_TIP IDS="209007" En="Salvo com sucesso. Uma vez selecionados, os valores não aparecerão no OSD.\nEles aparecerão apenas quando você usar a tecla de atalho para iniciar a gravação, momento em que um arquivo de log será salvo.\nPara configurar atalhos, clique no ícone de engrenagem no canto superior direito e, em seguida, vá para a aba Atalhos." />
+		<IDS_OSD_FPS_BENCHMARK_SAVE_TIP IDS="209011" En="OK" />
+
+		<!-- Matrix -->
+		<IDS_Matrix_THERMALMAP_POWERDETECTOR IDS="28169" En="MAPA TÉRMICO && DETECTOR DE ENERGIA +" />
+		<IDS_Matrix_THERMALMAP_POWERDETECTOR IDS="28171" En="MAPA TÉRMICO && DETECTOR DE ENERGIA +" />
+		<IDS_Matrix_Tip IDS="28174" HasTip="Esses dados baseados em sensores podem diferir um pouco\ndas leituras coletadas por ferramentas externas." Tip="Esses dados baseados em sensores podem diferir um pouco\ndas leituras coletadas por ferramentas externas."/>
+		<IDS_Matrix_VHPWR_Tip IDS="28175" HasTip="Este recurso alerta os usuários se a conexão 12VHPWR\nexceder a faixa adequada, alterando seu indicador\nde uma marca de seleção verde para um ponto de exclamação vermelho.\nPode ser necessário reconectar o cabo para restaurar o comportamento\nadequado.\nVerde: menos de 9.2A\nVermelho: Mais de 9.2A, ou nenhuma amperagem detectada." Tip="Este recurso alerta os usuários se a conexão 12VHPWR\nexceder a faixa adequada, alterando seu indicador\nde uma marca de seleção verde para um ponto de exclamação vermelho.\nPode ser necessário reconectar o cabo para restaurar o comportamento\nadequado.\nVerde: menos de 9.2A\nVermelho: Mais de 9.2A, ou nenhuma amperagem detectada."/>
+		<IDS_Matrix_Fan_rpm IDS="28173" En="rpm" HasTip="0" />
+
+		<IDS_OSD_Power_Detector IDS="620368" En="Detector de Energia +" HasTip="0"/>
+		<IDS_OSD_Power_Detector_Tip IDS="620168" HasTip="Ao ativar esta função, os usuários receberão uma \nnotificação se a corrente do 12VHPWR exceder a \nfaixa adequada. Corrigir o problema cancelará a \nnotificação." Tip="Ao ativar esta função, os usuários receberão uma \nnotificação se a corrente do 12VHPWR exceder a \nfaixa adequada. Corrigir o problema cancelará a \nnotificação." />
+
+		<IDS_Matrix_MILEAGE IDS="28333" En="QUILOMETRAGEM" HasTip="0" />
+		<IDS_Matrix_TOTAL IDS="28301" En="TOTAL" HasTip="0"/>
+		<IDS_Matrix_TOTAL_Tip IDS="28335" HasTip="Todos os dados de carga da GPU." Tip="Todos os dados de carga da GPU."/>	
+		<IDS_Matrix_Current_Session IDS="28306" En="Sessão Atual" HasTip="0"/>
+		<IDS_Matrix_Current_Session_Tip IDS="28336" HasTip="Dados de Carga da GPU coletados ao usar o GPU Tweak III\n(Desde sua última Inicialização)" Tip="Dados de Carga da GPU coletados ao usar o GPU Tweak III\n(Desde sua última Inicialização)"/>
+		<IDS_Matrix_Current_Recording IDS="28311" En="Gravação" HasTip="0"/>
+		<IDS_Matrix_Current_Recording_Tip IDS="28337" HasTip="Dados de Carga da GPU coletados ao clicar no botão\nREC/STOP." Tip="Dados de Carga da GPU coletados ao clicar no botão\nREC/STOP."/>
+
+		<IDS_Mileage_Close IDS="208003" En="Após fechar o GPU Tweak III, os dados da sua Quilometragem\nda Sessão Atual e Gravação serão limpos.\nTem certeza de que deseja fechar o GPU Tweak III? " HasTip="0" />
+		<IDS_Mileage_Note IDS="208010" En="Nota: Para ajustar as configurações de lembrete, clique\nno ícone de engrenagem perto do canto superior direito da\njanela do GPU Tweak III e selecione 'Geral'." HasTip="0"/>
+		<IDS_Mileage_Remind IDS="208006" En="Não me lembrar novamente." HasTip="0"/>
+
+		<IDS_Mileage_Remind_Setting IDS="532018" En="Lembrar-me que as informações de Quilometragem serão perdidas após o software ser fechado." HasTip="0"/>
+
+		<IDS_OSD_WIZARD_Click_customize IDS="620095" En="Clique aqui para personalizar seu OSD" />
+		<IDS_OSD_WIZARD_thumbnail IDS="6200503" En="Miniatura" />
+		<IDS_OSD_WIZARD_thumbnail IDS="6200303" En="Miniatura" />
+		<IDS_OSD_WIZARD_Choose_background IDS="620049" En="Selecione a imagem de fundo para usar com a visualização" />
+		<IDS_OSD_WIZARD_DISPLAY IDS="620046" En="TELA" />
+		<IDS_OSD_WIZARD_Browse IDS="620050" En="Procurar" />
+		<IDS_OSD_WIZARD_SCREEN_RESOLUTION IDS="620062" En="RESOLUÇÃO DE TELA" />
+		<IDS_OSD_WIZARD_Select_screen IDS="620067" En="Proporção da tela:" />
+		<IDS_OSD_WIZARD_Input_custom IDS="620073" En="Resolução de Tela:" />
+		<IDS_OSD_WIZARD_BLACKLIST IDS="620079" En="LISTA NEGRA" />
+
+		<IDS_OSD_power_detector_System IDS="532024" En="Ativar notificação de alerta do detector de energia+ (Bandeja do sistema)" />
+		<IDS_OSD_power_detector_Mainpage IDS="532027" En="Ativar notificação de alerta do detector de energia+ (Popup da página principal)" />
+		<IDS_OSD_Monitor_Log_Recording IDS="530091" En="Gravação de Log do Monitor" />
+		<IDS_OSD_Reset_OSD_profile IDS="6200051" En="Redefinir perfil OSD" />
+		<IDS_OSD_Show_system IDS="621008" En="Mostrar sistema" />
+
+    <IDS_LevelSense_Threshold_valueO IDS="650015" En="Valor limite" />
+    <IDS_LevelSense_Threshold_valueT IDS="650033" En="Valor limite" />
+    <IDS_LevelSense_Threshold_valueS IDS="650042" En="Valor limite" />
+    <IDS_LevelSense_CloseO IDS="650062" En="Fechar" />
+    <IDS_LevelSense_CloseT IDS="650067" En="Fechar" />
+    <IDS_LevelSense_CloseS IDS="650071" En="Fechar" />
+    <IDS_LevelSense_CloseF IDS="650074" En="Fechar" />
+    <IDS_LevelSense_CloseFV IDS="650084" En="Fechar" />
+		<IDS_LevelSense_GT3UI_PopupWnd_A IDS="208201" En="Instalação em ângulo incorreto detectada"/>
+		<IDS_LevelSense_GT3UI_PopupWnd_B IDS="208202" En="A posição detectada da placa de vídeo\nexcedeu o limite predefinido."/>
+		<IDS_LevelSense_GT3UI_PopupWnd_C IDS="208203" En="Recomendamos reinstalar a placa de vídeo para\nevitar possíveis problemas."/>
+		<IDS_LevelSense_GT3UI_PopupWnd_Close IDS="208204" En="Fechar"/>
+    <IDS_LevelSense_RecalibrateO IDS="650063" En="Recalibrar" />
+    <IDS_LevelSense_RecalibrateT IDS="650068" En="Recalibrar" />
+    <IDS_LevelSense_CalibrateO IDS="650064" En="Calibrar" />
+    <IDS_LevelSense_CalibrateT IDS="650069" En="Calibrar" />
+    <IDS_LevelSense_SaveO IDS="650065" En="Salvar" />
+    <IDS_LevelSense_SaveT IDS="650075" En="Salvar" />
+    <IDS_LevelSense_tso IDS="650030" En="Você está pronto!\nDefinimos a sua posição de instalação atual\ncomo o valor de referência." />
+    <IDS_LevelSense_ccc_text IDS="650032" En="Recomendamos definir um valor limite\npara receber notificações de aviso quando\numa inclinação da placa de vídeo for detectada" />
+    <IDS_LevelSense_eee_text IDS="650039" En="Você também pode clicar no botão Calibrar abaixo\npara alterar seus valores." />
+    <IDS_LevelSense_aaa_tsu IDS="650055" En="Ângulo de Instalação Incomum Detectado" />
+    <IDS_LevelSense_installation IDS="650057" En="O ângulo de instalação da sua placa de vídeo pode estar\nincorreto." />
+    <IDS_LevelSense_position IDS="650058" En="Tem certeza de que deseja definir a posição atual como\no valor de referência?" />
+    <IDS_LevelSense_reinstalling IDS="650059" En="Recomendamos reinstalar a placa de vídeo." />
+    <IDS_LevelSense_settingsSave IDS="650080" En="Suas configurações foram salvas." />
+    <IDS_LevelSense_currentvalues IDS="650041" En="Seus valores atuais foram calibrados.\n\nRecomendamos definir um valor limite para receber notificações de aviso quando\numa inclinação da placa de vídeo for detectada." />
+    <IDS_LevelSense_settingsbefore IDS="650082" En="Salvar suas configurações antes de sair?" />
+    <IDS_LevelSense_updateBIOS IDS="650050" En="Por favor, atualize o Firmware" />
+    <IDS_LevelSense_usefeature IDS="650052" En="Para usar o recurso Level Sense, clique no botão\n abaixo para atualizar para o firmware mais recente." />
+    <IDS_LevelSense_UpdateBIOS IDS="650072" En="Baixar Firmware" />
+    <IDS_LevelSense_OK IDS="650011" En="OK" />
+    <IDS_LevelSense_warningpopup IDS="650021" En="Um aviso popup aparecerá se a posição detectada\nda placa de vídeo exceder o\nlimite predefinido." />
+    <IDS_LevelSense_Offangle IDS="650005" En="Instalação em ângulo incorreto detectada" />
+    <IDS_LevelSense_YES IDS="650077" En="SIM" />
+    <IDS_LevelSense_NO IDS="650078" En="NÃO" />
+    <IDS_LevelSense_Unabledetect IDS="650008" En="Não foi possível detectar a posição da GPU" />
+    <IDS_LevelSense_steady IDS="650023" En="Por favor, mantenha a placa de vídeo firme e\nevite qualquer movimento." />
+	<IDS_LevelSense_degree_a IDS="650020" En="grau" />
+  	<IDS_LevelSense_degree_b IDS="650038" En="grau" />
+  	<IDS_LevelSense_degree_c IDS="650047" En="grau" />
+    <IDS_LevelSense_calibrating IDS="2060220" En="calibrando..." />
+
+  </GT3>
+	<!-- GPU-Z -->
+	<GPUZ>
+		<IDS_GPU_Z_Name IDS="2003" En="Nome"/>
+		<IDS_GPU_Z_GPU IDS="2007" En="GPU"/>
+		<IDS_GPU_Z_Revision IDS="2009" En="Revisão"/>
+		<IDS_GPU_Z_Technology IDS="2013" En="Tecnologia"/>
+		<IDS_GPU_Z_Die_Size IDS="2015" En="Tamanho do Die"/>
+		<IDS_GPU_Z_Release_Data IDS="2019" En="Data de Lançamento"/>
+		<IDS_GPU_Z_Transistors IDS="2021" En="Transistores"/>
+		<IDS_GPU_Z_BIOS_Version IDS="3002" En="Versão da BIOS"/>
+		<IDS_GPU_Z_Device_ID IDS="3104" En="ID do Dispositivo"/>
+		<IDS_GPU_Z_Subvendor IDS="3102" En="Subfornecedor"/>
+		<IDS_GPU_Z_ROPs IDS="3202" En="ROPs"/>
+		<IDS_GPU_Z_Bus_Interface IDS="3204" En="Interface do Barramento"/>
+		<IDS_GPU_Z_Shaders IDS="3302" En="Shaders"/>
+		<IDS_GPU_Z_DirectX_Support IDS="3304" En="Suporte DirectX"/>
+		<IDS_GPU_Z_Pixel_Fillrate IDS="3402" En="Taxa de Preenchimento de Pixels"/>
+		<IDS_GPU_Z_Texture_Fillrate IDS="3404" En="Taxa de Preenchimento de Textura"/>
+		<IDS_GPU_Z_Memory_Type IDS="3502" En="Tipo de Memória"/>
+		<IDS_GPU_Z_Bus_Width IDS="3504" En="Largura do Barramento"/>
+		<IDS_GPU_Z_Memory_Size IDS="3602" En="Tamanho da Memória"/>
+		<IDS_GPU_Z_BandWidth IDS="3604" En="Largura de Banda"/>
+		<IDS_GPU_Z_Driver_Version IDS="3702" En="Versão do Driver"/>
+		<IDS_GPU_Z_Driver_Date IDS="3802" En="Data do Driver"/>
+		<IDS_GPU_Z_Digital_Signature IDS="3804" En="Assinatura Digital"/>
+		<IDS_GPU_Z_GPU_Clock IDS="3902" En="Clock da GPU"/>
+		<IDS_GPU_Z_Memory IDS="3904" En="Memória"/>
+		<IDS_GPU_Z_Default_Clock IDS="4002" En="Clock Padrão"/>
+		<IDS_GPU_Z_Default_Memory IDS="4004" En="Memória"/>
+		<IDS_GPU_Z_Default_Boost IDS="4006" En="Boost"/>
+		<IDS_GPU_Z_NVIDIA_SLI IDS="4102" En="NVIDIA SLI"/>
+		<IDS_GPU_Z_Computing IDS="4202" En="Computação"/>
+		<IDS_GPU_Z_Boost IDS="3906" En="Boost"/>
+		<IDS_GPU_Z_Computing IDS="4202" En="Computação"/>
+		<IDS_GPU_Z_OpenCL IDS="4204" En="OpenCL"/>
+		<IDS_GPU_Z_CUDA IDS="4206" En="CUDA"/>
+		<IDS_GPU_Z_DirectCompute IDS="4208" En="DirectCompute"/>
+		<IDS_GPU_Z_DirectML IDS="4210" En="DirectML"/>
+		<IDS_GPU_Z_Technologies IDS="4302" En="Tecnologias"/>
+		<IDS_GPU_Z_Vulkan IDS="4304" En="Vulkan"/>
+		<IDS_GPU_Z_RayTracing IDS="4306" En="Ray Tracing"/>
+		<IDS_GPU_Z_physX IDS="4308" En="physX"/>
+		<IDS_GPU_Z_OpenGL IDS="4310" En="OpenGL 4.6"/>
+	</GPUZ>
+	<!-- Monitor -->
+	<Monitor>
+		<!-- Added 20220228 - Adjusted English -->
+		<IDS_Monitor_Tip_CloseBtn IDS="3001" HasTip="Fechar janela" Tip="Fechar janela"/>
+		<IDS_Monitor_Tip_MaxBtn IDS="3002" HasTip="Maximizar janela" Tip="Maximizar janela"/>
+		<IDS_Monitor_Tip_MaxBtn_UP IDS="3003" HasTip="Maximizar janela" Tip="Maximizar janela"/>
+		<IDS_Monitor_Tip_MinBtn IDS="3004" HasTip="Minimizar janela" Tip="Minimizar janela"/>
+		<!-- Added 20220228 end - Adjusted English -->
+		<IDS_Monitor_Tip_Customize IDS="6009" HasTip="Permite personalizar o \nmenu do modo usuário." Tip="Permite personalizar o \nmenu do modo usuário."/>
+		<IDS_Monitor_Tip_Main_MonitorLink IDS="1000000" HasTip="Vincular/desvincular as janelas Principal e de Monitoramento." Tip="Vincular/desvincular as janelas Principal e de Monitoramento."/>
+		<IDS_Monitor_Clock IDS="90001" En="Clock da GPU"/>
+		<IDS_Monitor_Voltage IDS="90002" En="Tensão da GPU"/>
+		<IDS_Monitor_FanSpeed IDS="90003" En="Veloc. do Fan da GPU"/>
+		<IDS_Monitor_MemoryClock IDS="90004" En="Clock da Memória"/>
+		<IDS_Monitor_FrameRate IDS="90005" En="Taxa de Quadros"/>
+		<IDS_Monitor_Temperature IDS="90006" En="Temperatura da GPU"/>
+		<IDS_Monitor_PowerTarget IDS="90007" En="Status do Alvo de Potência"/>
+		<IDS_Monitor_MemoryTemp IDS="90008" En="Temperatura da Memória"/>
+		<IDS_Monitor_PowerTemp IDS="90009" En="Temperatura de Potência"/>
+		<IDS_Monitor_BoardTemp IDS="90010" En="Temperatura da Placa"/>
+		<IDS_Monitor_GPUUsage IDS="90011" En="Uso da GPU"/>
+		<IDS_Monitor_VIDUsage IDS="90012" En="Uso de VID"/>
+		<IDS_Monitor_MemoryCurrent IDS="90013" En="Corrente da Memória"/>
+		<IDS_Monitor_MemoryVoltage IDS="90014" En="Tensão da Memória"/>
+		<IDS_Monitor_PEX_VDD IDS="90015" En="PEX_VDD"/>
+		<IDS_Monitor_VDDCIVoltage IDS="90016" En="Tensão VDDCI"/>
+		<IDS_Monitor_VCCVoltage IDS="90017" En="Tensão VCC"/>
+		<IDS_Monitor_PCIE12VVoltage IDS="90018" En="Tensão PCIE12V"/>
+		<IDS_Monitor_GPUConsumption IDS="90019" En="Consumo da GPU"/>
+		<IDS_Monitor_MemoryConsumption IDS="90020" En="Consumo da Memória"/>
+		<IDS_Monitor_TotalBoardConsumption IDS="90021" En="Consumo Total da Placa"/>
+		<IDS_Monitor_Fan1Speed IDS="90022" En="Veloc. do Fan (Laterais)"/>
+		<IDS_Monitor_Fan2Speed IDS="90023" En="Veloc. do Fan (Central)"/>
+		<IDS_Monitor_RightFanSpeed IDS="90024" En="Veloc. do Fan Direito"/>
+		<IDS_Monitor_MemoryUsage IDS="90025" En="Uso da Memória"/>
+		<IDS_Monitor_LoadLine IDS="90026" En="Linha de Carga"/>
+		<IDS_Monitor_VRMClock IDS="90027" En="Clock VRM"/>
+		<IDS_Monitor_VDDCIPowerTemp IDS="90028" En="Temp. de Potência VDDCI"/>
+		<IDS_Monitor_MemoryPowerTemp IDS="90029" En="Temp. de Potência de Memória"/>
+		<IDS_Monitor_VDDCICurrent IDS="90030" En="Corrente VDDCI"/>
+		<IDS_Monitor_VDDCCurrent IDS="90031" En="Corrente VDDC"/>
+		<IDS_Monitor_95Voltage IDS="90032" En="Tensão 0.95V"/>
+		<IDS_Monitor_33Voltage IDS="90033" En="Tensão 3.3V"/>
+		<IDS_Monitor_18Voltage IDS="90034" En="Tensão 1.8V"/>
+		<IDS_Monitor_ExtFan1Duty IDS="90035" En="Veloc. do Fan Externo"/>
+		<IDS_Monitor_ExtFan1Speed IDS="90036" En="Veloc. Fan Ext. 1"/>
+		<IDS_Monitor_ExtFan2Speed IDS="90037" En="Veloc. Fan Ext. 2"/>
+		<IDS_Monitor_NormalizedTotalPower IDS="90038" En="Potência Total Normalizada"/>
+		<IDS_Monitor_XGFANSpeed IDS="90039" En="Veloc. do Fan XG Station"/>
+		<IDS_Monitor_XGFAN1Speed IDS="90040" En="Veloc. Fan 1 XG Station"/>
+		<IDS_Monitor_XGFAN2Speed IDS="90041" En="Veloc. Fan 2 XG Station"/>
+		<IDS_Monitor_XGFAN3Speed IDS="90042" En="Veloc. Fan 3 XG Station"/>
+		<IDS_Monitor_LeftrightFanSpeed IDS="90043" En="Veloc. do Fan Esq-Dir"/>
+		<IDS_Monitor_LeftrightFanduty IDS="90044" En="Ciclo do Fan Esq-Dir"/>
+		<IDS_Monitor_MiddleFanduty IDS="90045" En="Ciclo do Fan Central"/>
+		<IDS_Monitor_LeftFanDuty IDS="90046" En="Ciclo do Fan Esquerdo"/>
+		<IDS_Monitor_ExtFanDuty IDS="90047" En="Ciclo do Fan Externo"/>
+		<IDS_Monitor_GPUCurrent IDS="90048" En="Corrente da GPU"/>
+		<IDS_Monitor_FBUsage IDS="90049" En="Uso de FB"/>
+		<IDS_Monitor_ProcessorClock IDS="90050" En="Clock do Processador"/>
+		<IDS_Monitor_VDDCPowerTemp IDS="90051" En="Temp. de Potência VDDC"/>
+		<IDS_Monitor_TotalPower IDS="90052" En="Potência Total"/>
+		<IDS_Monitor_DisplayRefreshRate IDS="90053" En="Taxa de Atualização da Tela"/>
+		<IDS_Monitor_GPU_Power IDS="90054" En="Potência da GPU"/>
+		<IDS_Monitor_SOC_VRM_Temperature IDS="90055" En="Temperatura SOC VRM"/>
+		<IDS_Monitor_Junction_Temperature IDS="90056" En="Temperatura de Junção"/>
+		<IDS_Monitor_Memory_Temp IDS="90057" En="Temperatura da Memória"/>
+		<IDS_Monitor_GPU_VRM_Temperature IDS="90058" En="Temperatura da GPU VRM"/>
+		<IDS_Monitor_VDD_VRM_Temperature IDS="90059" En="Temperatura VDD VRM"/>
+		<IDS_Monitor_Mem1_VRM_Temperature IDS="90060" En="Temperatura Mem1 VRM"/>
+		<IDS_Monitor_Mem2_VRM_Temperature IDS="90061" En="Temperatura Mem2 VRM"/>
+		<IDS_Monitor_LIQUID_Temperature IDS="90062" En="Temperatura do Líquido"/>
+		<IDS_Monitor_PLX_Temperature IDS="90063" En="Temperatura PLX"/>
+		<IDS_Monitor_SOC_Temperature IDS="90064" En="Temperatura SOC"/>
+		<IDS_Monitor_GFX_Power IDS="90065" En="Potência GFX"/>
+		<!-- Added 20220228-->
+		<IDS_Monitor_Frame_Data IDS="90066" En="Latência de Apresentação de Renderização" HasTip="A quantidade de tempo entre cada quadro." Tip="A quantidade de tempo entre cada quadro."/>
+		<IDS_Monitor_AvgFPS IDS="90067" En="FPS (Média)" HasTip="A quantidade média não modificada de quadros por segundo." Tip="A quantidade média não modificada de quadros por segundo."/>
+		<IDS_Monitor_FPS99 IDS="90068" En="FPS (Top 99%)" HasTip="A quantidade média de quadros por segundo excluindo o 1% dos quadros mais lentos." Tip="A quantidade média de quadros por segundo excluindo o 1% dos quadros mais lentos."/>
+		<IDS_Monitor_RenderPresentLatency IDS="90069" En="Tempo de Quadro" HasTip="O tempo de quadro é calculado usando a métrica de Latência de Apresentação de Renderização da Nvidia." Tip="O tempo de quadro é calculado usando a métrica de Latência de Apresentação de Renderização da Nvidia."/>
+		<!-- Used in launch version -->
+		<IDS_Monitor_RenderLatency IDS="90070" En="Latência de Renderização" HasTip="O tempo entre um quadro ser adicionado à fila e ser totalmente renderizado pela GPU." Tip="O tempo entre um quadro ser adicionado à fila e ser totalmente renderizado pela GPU."/>
+		<IDS_Monitor_TGPWatts IDS="90071" En="Potência Total da Placa" HasTip="A quantidade total de energia usada pela placa de vídeo." Tip="A quantidade total de energia usada pela placa de vídeo."/>
+		<IDS_Monitor_CPUUtil IDS="90072" En="Utilização da CPU"/>
+		<IDS_Monitor_PCDisplayLatency IDS="90073" En="Latência do PC e Tela" HasTip="A quantidade total de tempo desde que o SO recebe um clique do mouse até que o PC e o monitor processem a solicitação e o efeito seja renderizado na tela." Tip="A quantidade total de tempo desde que o SO recebe um clique do mouse até que o PC e o monitor processem a solicitação e o efeito seja renderizado na tela."/>
+		<IDS_Monitor_MouseLatency IDS="90074" En="Latência do Mouse" HasTip="A latência apenas do mouse." Tip="A latência apenas do mouse."/>
+		<IDS_Monitor_E2ESystemLatency IDS="90075" En="Latência do Sistema de Ponta a Ponta" HasTip="A latência total de ponta a ponta entre uma entrada do mouse sendo enviada até o efeito ser renderizado em um display." Tip="A latência total de ponta a ponta entre uma entrada do mouse sendo enviada até o efeito ser renderizado em um display."/>
+		<IDS_Monitor_Frame_Time IDS="90076" En="Tempo de Quadro" HasTip="O tempo de quadro é calculado usando a métrica de Latência de Apresentação de Renderização da Nvidia." Tip="O tempo de quadro é calculado usando a métrica de Latência de Apresentação de Renderização da Nvidia."/>
+		
+		<IDS_Monitor_Card_Pin IDS="90085" En="Pino da Placa 1"/>
+		<IDS_Monitor_Card_Pin IDS="90086" En="Pino da Placa 2"/>
+		<IDS_Monitor_Card_Pin IDS="90087" En="Pino da Placa 3"/>
+		<IDS_Monitor_Card_Pin IDS="90088" En="Pino da Placa 4"/>
+		<IDS_Monitor_Card_Pin IDS="90089" En="Pino da Placa 5"/>
+		<IDS_Monitor_Card_Pin IDS="90090" En="Pino da Placa 6"/>
+
+		<IDS_Monitor_Mb_Pin IDS="90091" En="Pino da Placa-mãe 1"/>
+		<IDS_Monitor_Mb_Pin IDS="90092" En="Pino da Placa-mãe 2"/>
+		<IDS_Monitor_Mb_Pin IDS="90093" En="Pino da Placa-mãe 3"/>
+		<IDS_Monitor_Mb_Pin IDS="90094" En="Pino da Placa-mãe 4"/>
+		<IDS_Monitor_Mb_Pin IDS="90095" En="Pino da Placa-mãe 5"/>
+		<IDS_Monitor_Mb_Pin IDS="90096" En="Pino da Placa-mãe 6"/>
+
+		<IDS_Monitor_48v IDS="90097" En="Tensão de Entrada"/>
+		<IDS_Monitor_48v IDS="90098" En="Consumo Total de Energia"/>
+		
+		<IDS_Monitor_Frame_Time_Temp IDS="40000" En="Latência de Apresentação de Renderização" HasTip="O tempo entre uma chamada de apresentação ser adicionada à fila e ser processada pela GPU." Tip="O tempo entre uma chamada de apresentação ser adicionada à fila e ser processada pela GPU."/>
+		<IDS_Monitor_FanSpeed_V1 IDS="10203" En="Veloc. do Fan da GPU" />
+		<IDS_Monitor_Fan1Speed_V1 IDS="10222" En="Veloc. do Fan (Laterais)" />
+		<IDS_Monitor_Fan2Speed_V1 IDS="10223" En="Veloc. do Fan (Central)" />
+		<IDS_Monitor_RightFanSpeed_V1 IDS="10224" En="Veloc. do Fan Direito" />
+		<IDS_Monitor_FanSpeed_V2 IDS="50303" En="Veloc. do Fan da GPU" />
+		<IDS_Monitor_Fan1Speed_V2 IDS="50322" En="Veloc. do Fan (Laterais)" />
+		<IDS_Monitor_Fan2Speed_V2 IDS="50323" En="Veloc. do Fan (Central)" />
+		<IDS_Monitor_RightFanSpeed_V2 IDS="50324" En="Veloc. do Fan Direito" />
+		<!-- Added 20220228 end-->
+		<IDS_Monitor_Arrange_Page IDS="6002" En="ORGANIZAR MONITORAMENTO"/>
+		<IDS_Monitor_Line_Chart IDS="6003" En="Visual. em Linha"/>
+		<IDS_Monitor_Matrix_Chart IDS="6004" En="Visual. em Coluna"/>
+		<IDS_Monitor_MobileView IDS="6005" En="Visual. Mobile"/>
+
+		<IDS_Monitor_Max IDS="4997" En="Máximo"/>
+		<IDS_Monitor_Min IDS="4998" En="Mínimo"/>
+		<IDS_Monitor_Current IDS="4999" En="Atual"/>
+
+		<IDS_Monitor_Export_Log IDS="8002" En="Exportar Logs"/>
+		<IDS_Monitor_Import_Log IDS="8004" En="Importar Logs"/>
+		<IDS_Monitor_Back IDS="8006" En="Voltar"/>
+		<IDS_Monitor_Default IDS="8008" En="Padrão"/>
+		<IDS_Monitor_Save IDS="8010" En="Salvar"/>
+		<IDS_Monitor_Bcak_Message IDS="9007" En="Algumas configurações não foram alteradas. Deseja sair sem salvar a organização?"/>
+		<IDS_Monitor_Yes IDS="9009" En="Sim"/>
+		<IDS_Monitor_No IDS="9010" En="Não"/>
+		<IDS_Monitor_Save_Message IDS="9015" En="As configurações foram salvas."/>
+		<IDS_Monitor_Export_succeeded IDS="9020" En="Exportação bem-sucedida!"/>
+		<IDS_Monitor_MobileView_data IDS="4002" En="Para visualizar os dados de monitoramento pelo seu dispositivo \nmóvel, escaneie o código QR abaixo."/>
+		<IDS_Monitor_MobileView_connect IDS="4003" En="Para garantir uma conexão bem-sucedida, use a mesma rede de \ninternet."/>
+		<IDS_Monitor_MobileView_display IDS="4005" En="Em instantes, você terá uma área de exibição extra \npara monitorar os dados da sua Placa de Vídeo \nenquanto aproveita o jogo."/>
+	</Monitor>
+
+</Lang>

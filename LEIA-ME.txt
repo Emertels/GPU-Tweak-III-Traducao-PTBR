@@ -1,0 +1,28 @@
+ASUS GPU Tweak III — Tradução PT-BR v1.0.0
+Por Emerson Teles
+
+COMPATIBILIDADE
+Preparada com base no aseng.xml do GPU Tweak III v2.1.9.5.
+Página oficial da ASUS: https://www.asus.com/supportonly/gpu%20tweak%20iii/helpdesk_download/
+
+INSTALAÇÃO AUTOMÁTICA
+1. Deixe aseng.xml, GPU-Tweak-III-PTBR.ps1 e este .bat juntos na mesma pasta.
+2. Execute Iniciar-Traducao.bat.
+3. Escolha “Instalar tradução PT-BR” e confirme a elevação administrativa.
+4. Se necessário, selecione a pasta do GPU Tweak III.
+O script salva o arquivo inglês como _aseng.xml na pasta do jogo.
+
+RESTAURAÇÃO
+Execute Iniciar-Traducao.bat e escolha “Restaurar inglês do backup”.
+O script copia _aseng.xml de volta para aseng.xml.
+
+INSTALAÇÃO MANUAL
+Feche o GPU Tweak III. Na pasta do programa, copie o aseng.xml original para _aseng.xml. Depois copie para lá o aseng.xml deste pacote, substituindo o arquivo. Abra o aplicativo novamente.
+
+IMPORTANTE SOBRE O NOME
+O arquivo traduzido precisa se chamar exatamente aseng.xml. O GPU Tweak III carrega esse nome como o recurso de idioma inglês; nomes como pt-br.xml ou português.xml não são reconhecidos pelo programa.
+
+ATUALIZAÇÕES
+A tradução dos IDs existentes continua válida. Uma atualização da ASUS pode restaurar o arquivo original, então execute o script novamente depois de atualizar. A ASUS pode acrescentar novos textos em atualizações futuras; eles podem aparecer em inglês até uma nova revisão da tradução. Isso não altera os textos já traduzidos.
+
+Consulte README.md para as instruções completas.
