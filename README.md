@@ -36,7 +36,7 @@ Tradução PT-BR do **ASUS GPU Tweak III**, atualizada a partir do arquivo de lo
 
 ## 🌟 Sobre a tradução
 
-O pacote usa o arquivo inglês presente na instalação do GPU Tweak III 2.1.9.5 como estrutura de referência e aplica nele as traduções de `aseng-pt-br.xml` mantidas por Emerson Teles. Foram traduzidas também as nove chaves novas, incluindo os avisos e opções de desligamento automático por sobrecorrente. As chaves antigas que não existem mais no arquivo inglês atual não são carregadas na versão final.
+O pacote usa o arquivo inglês presente na instalação do GPU Tweak III 2.1.9.5 como estrutura de referência e aplica nele as traduções de `aseng-pt-br.xml` mantidas por Emerson Teles. O arquivo final mantém as 1.083 linhas do original. Foram traduzidas também as nove chaves novas, incluindo os avisos e opções de desligamento automático por sobrecorrente. As chaves antigas que não existem mais no arquivo inglês atual não são carregadas na versão final.
 
 O arquivo de idioma se chama `aseng.xml` para que o programa o carregue. O conteúdo está em português brasileiro, mas o nome técnico original precisa ser preservado.
 
