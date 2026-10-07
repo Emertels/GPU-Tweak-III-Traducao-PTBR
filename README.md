@@ -2,7 +2,6 @@
 
 ![Versão](https://img.shields.io/badge/Tradução-v1.0.0-blue?style=for-the-badge)
 ![Idioma](https://img.shields.io/badge/Idioma-Português%20(Brasil)-green?style=for-the-badge)
-![Programa](https://img.shields.io/badge/GPU%20Tweak%20III-v2.1.9.5-orange?style=for-the-badge)
 
 Tradução PT-BR do **ASUS GPU Tweak III**, atualizada a partir do arquivo de localização mantido por **Emerson Teles**. O pacote inclui instalação por script, restauração do arquivo inglês e instalação manual.
 
