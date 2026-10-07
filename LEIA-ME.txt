@@ -3,7 +3,7 @@ Por Emerson Teles
 
 COMPATIBILIDADE
 Preparada com base no aseng.xml do GPU Tweak III v2.1.9.5.
-Página oficial da ASUS: https://www.asus.com/supportonly/gpu%20tweak%20iii/helpdesk_download/
+Página oficial da ASUS: https://www.asus.com/campaign/GPU-Tweak-III/br/
 
 INSTALAÇÃO AUTOMÁTICA
 1. Deixe aseng.xml, GPU-Tweak-III-PTBR.ps1 e este .bat juntos na mesma pasta.
