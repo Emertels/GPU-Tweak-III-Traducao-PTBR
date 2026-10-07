@@ -87,3 +87,36 @@ O GPU Tweak III procura o idioma inglês pelo identificador/nome `aseng.xml`. Re
 Tradução PT-BR e atualização: **Emerson Teles**.
 
 O ASUS GPU Tweak III é propriedade da ASUS. Este projeto comunitário não é oficial nem afiliado à ASUS.
+
+---
+
+## 👤 Sobre o Autor
+
+Desenvolvido e mantido por **Emerson Teles** (conhecido na comunidade como **Emertels**).
+
+Entusiasta de tecnologia, informática, jogos, manutenção de sistemas e tradução/localização de softwares para Português do Brasil (PT-BR).
+
+### 🛠️ Projetos & Contribuições
+
+- **[Cursor — Tradução PT-BR](https://github.com/Emertels/Cursor-Traducao-PTBR)** — Localização do Cursor AI para Português do Brasil.
+- **[Antigravity — Tradução PT-BR](https://github.com/Emertels/Antigravity-Traducao-PTBR)** — Localização do Google Antigravity Desktop.
+- **[Suite-Emuladores](https://github.com/Emertels/Suite-Emuladores)** — Suíte PowerShell para baixar e atualizar emuladores e frontends.
+- **[PSBBN-Translator](https://github.com/Emertels/PSBBN-Translator)** — Ferramentas de tradução e localização para o PSBBN Definitive Project.
+- **[AI-Chat-Vault](https://github.com/Emertels/AI-Chat-Vault)** — Backup e recuperação de conversas locais de assistentes de IA.
+- **[Silent Hill: Homecoming — Tradução PT-BR](https://github.com/Emertels/Silent-Hill-Homecoming-Traducao-PTBR)** — Tradução brasileira para PC.
+
+---
+
+### 🌐 Conecte-se comigo & Comunidades Oficiais
+
+<div align="left">
+
+[![GitHub](https://img.shields.io/badge/GitHub-Emertels-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/emertels)
+[![Website](https://img.shields.io/badge/Website-Emerson_Teles-0070F3?style=for-the-badge&logo=googlechrome&logoColor=white)](https://emertels.github.io)
+[![Discord](https://img.shields.io/badge/Discord-Emertels%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://emertels.github.io/discord)
+[![X / Twitter](https://img.shields.io/badge/X_Twitter-@emertels-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/emertels)
+[![YouTube](https://img.shields.io/badge/YouTube-Emerson_Teles-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@emersonteles2379)
+[![Telegram](https://img.shields.io/badge/Telegram-Aplicativos%20Mods-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/apksmodsandroid)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Apoiar%20Projeto-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white)](https://ko-fi.com/emertels)
+
+</div>
