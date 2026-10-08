@@ -1,7 +1,8 @@
-﻿# 🎮 ASUS GPU Tweak III — Tradução para Português do Brasil (PT-BR) 🇧🇷
+# 🎮 ASUS GPU Tweak III — Tradução para Português do Brasil (PT-BR) 🇧🇷
 
 ![Versão](https://img.shields.io/badge/Tradução-v1.0.0-blue?style=for-the-badge)
 ![Idioma](https://img.shields.io/badge/Idioma-Português%20(Brasil)-green?style=for-the-badge)
+![Licença](https://img.shields.io/badge/Licença-MIT-purple?style=for-the-badge)
 
 Tradução PT-BR do **ASUS GPU Tweak III**, atualizada a partir do arquivo de localização mantido por **Emerson Teles**. O pacote inclui instalação por script, restauração do arquivo inglês e instalação manual.
 
@@ -86,11 +87,11 @@ O backup é mantido na pasta do jogo. Não o apague se quiser poder restaurar o 
 
 O GPU Tweak III procura o idioma inglês pelo identificador/nome `aseng.xml`. Renomear o arquivo para `pt-br.xml`, `português.xml` ou outro nome não registra um novo idioma: o programa simplesmente não carrega a tradução. Por isso, o pacote substitui o `aseng.xml` em uso e conserva o original com o nome `_aseng.xml` para restauração.
 
-## 👤 Créditos
+## 👤 Créditos & Licença
 
 Tradução PT-BR e atualização: **Emerson Teles**.
 
-O ASUS GPU Tweak III é propriedade da ASUS. Este projeto comunitário não é oficial nem afiliado à ASUS.
+Este projeto e seus scripts são distribuídos sob a licença [MIT](LICENSE). O ASUS GPU Tweak III é propriedade da ASUS. Este projeto comunitário não é oficial nem afiliado à ASUS.
 
 ---
 
