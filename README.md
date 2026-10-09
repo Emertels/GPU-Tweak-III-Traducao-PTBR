@@ -95,22 +95,24 @@ Este projeto e seus scripts são distribuídos sob a licença [MIT](LICENSE). O 
 
 ---
 
-## 👤 Sobre o Autor
+## 👨‍💻 Sobre o Autor
 
 Desenvolvido e mantido por **Emerson Teles** (conhecido na comunidade como **Emertels**).
 
-Entusiasta de tecnologia, informática, jogos, manutenção de sistemas e tradução/localização de softwares para Português do Brasil (PT-BR).
+Entusiasta de tecnologia, informática, jogos, manutenção de sistemas e tradução/localização de softwares para Português do Brasil (PT-BR). Desenvolvedor focado em utilitários práticos, ferramentas de produtividade, automação inteligente em PowerShell e soluções completas de localização técnica que aproximam ferramentas modernas do público brasileiro.
 
 ### 🛠️ Projetos & Contribuições
 
-- **[Cursor — Tradução PT-BR](https://github.com/Emertels/Cursor-Traducao-PTBR)** — Localização do Cursor AI para Português do Brasil.
-- **[Antigravity — Tradução PT-BR](https://github.com/Emertels/Antigravity-Traducao-PTBR)** — Localização do Google Antigravity Desktop.
-- **[Suite-Emuladores](https://github.com/Emertels/Suite-Emuladores)** — Suíte PowerShell para baixar e atualizar emuladores e frontends.
-- **[PSBBN-Translator](https://github.com/Emertels/PSBBN-Translator)** — Ferramentas de tradução e localização para o PSBBN Definitive Project.
-- **[AI-Chat-Vault](https://github.com/Emertels/AI-Chat-Vault)** — Backup e recuperação de conversas locais de assistentes de IA.
-- **[Silent Hill: Homecoming — Tradução PT-BR](https://github.com/Emertels/Silent-Hill-Homecoming-Traducao-PTBR)** — Tradução brasileira para PC.
-
----
+- [AI-Chat-Vault](https://github.com/Emertels/AI-Chat-Vault) — Backup portátil e recuperação de conversas locais de 20+ ferramentas e assistentes de IA.
+- [Antigravity — Tradução PT-BR](https://github.com/Emertels/Antigravity-Traducao-PTBR) — Localização completa do Google Antigravity Desktop para Português do Brasil.
+- [Codex Router — Tradução PT-BR](https://github.com/Emertels/CodexRouter-Traducao-PTBR) — Pacote de tradução e localização do Codex Router Control Center em PT-BR.
+- [Cursor AI — Tradução PT-BR](https://github.com/Emertels/Cursor-Traducao-PTBR) — Localização completa e profunda do Cursor AI para Português do Brasil.
+- [GPU Tweak III — Tradução PT-BR](https://github.com/Emertels/GPU-Tweak-III-Traducao-PTBR) — Tradução em português brasileiro e instalador automatizado para ASUS GPU Tweak III.
+- [Microsoft Photos Fix](https://github.com/Emertels/Microsoft-Photos-Fix) — Solução definitiva em PowerShell e C# para rota de inicialização rápida e visualização no app Fotos do Windows.
+- [PSBBN-Translator](https://github.com/Emertels/PSBBN-Translator) — Suíte corporativa de tradução e localização para o PSBBN Definitive Project (PlayStation 2) em 40 idiomas.
+- [Silent Hill: Homecoming — Tradução PT-BR](https://github.com/Emertels/Silent-Hill-Homecoming-Traducao-PTBR) — Tradução e revisão completa do jogo para PC em português brasileiro.
+- [Suite-Emuladores](https://github.com/Emertels/Suite-Emuladores) — Suíte inteligente em PowerShell para download e atualização autônoma de 56 emuladores e frontends no Windows.
+- [ZCode — Tradução PT-BR](https://github.com/Emertels/ZCode-Traducao-PTBR) — Tradução e localização completa do ZCode Desktop para Português do Brasil.
 
 ### 🌐 Conecte-se comigo & Comunidades Oficiais
 
