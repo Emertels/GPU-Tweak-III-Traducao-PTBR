@@ -69,6 +69,9 @@ Ao instalar ou restaurar, o programa fecha antes de substituir o arquivo. Em seg
 
 Na instalação, o script salva o arquivo inglês como `_aseng.xml` na própria pasta do jogo. Se uma atualização da ASUS colocar um `aseng.xml` inglês novo, ao instalar novamente o script atualiza o backup para preservar essa versão. Ao restaurar, o instalador copia `_aseng.xml` de volta para `aseng.xml` e apaga o backup temporário; uma instalação futura da tradução cria um novo backup.
 
+> [!NOTE]
+> **Atualizações do aplicativo:** Sempre que a ASUS atualizar o GPU Tweak III, o arquivo de idioma original em inglês será reinstalado pelo próprio programa. Para continuar usando em português, basta executar o `Iniciar-Traducao.bat` novamente após a atualização.
+
 ## 🛠️ Instalação manual
 
 1. Feche o GPU Tweak III.
